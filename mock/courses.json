@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "6040045b13aff839088f3dd7",
+    "name": "React",
+    "overview": "React testing",
+    "instructorID": "603e0b0390f5d8e474a376cf",
+    "sections": [
+      {
+        "_id": "6040046313aff839088f3dd8",
+        "name": "Section1",
+        "description": "Section 1 Description",
+        "resources": [
+          {
+            "_id": "604005f4d4b08ecf4c518229",
+            "name": "Tester",
+            "uri": "/604005f4d4b08ecf4c518229/master.m3u8"
+          },
+          {
+            "_id": "1234",
+            "name": "Tester1",
+            "uri": "/604005f4d4b08ecf4c518229/master.m3u8"
+          }
+        ]
+      },
+      {
+        "_id": "6040046313aff839088f311dd8",
+        "name": "Section2",
+        "description": "Section 1 Description",
+        "resources": [
+          {
+            "_id": "604005f4d4b08ecf4c51822911",
+            "name": "Tester",
+            "uri": "/604005f4d4b08ecf4c518229/master.m3u8"
+          },
+          {
+            "_id": "123411",
+            "name": "Tester1",
+            "uri": "/604005f4d4b08ecf4c518229/master.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]

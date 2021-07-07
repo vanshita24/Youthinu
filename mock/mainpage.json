@@ -1,0 +1,105 @@
+{
+  "featured": {
+    "bannerVideoURL": "https://firebasestorage.googleapis.com/v0/b/yiu-academy-dev.appspot.com/o/bg-videos%2Fbanner.mp4?alt=media&token=fe25fa89-2b64-457f-a623-449d01249a81",
+    "featuredCourses": [
+      {
+        "subject": "Mathematics",
+        "title": "Algebra",
+        "img": "/images/ages/k2.jpeg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+        "subtitle": "For Ages K to 1",
+        "url": "#"
+      },
+      {
+        "subject": "History",
+        "title": "Indian Independance",
+        "img": "/images/ages/35.jpeg",
+        "subtitle": "For Ages 2 to 3",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+        "url": "#"
+      },
+      {
+        "subject": "Art",
+        "title": "Crayon Painting",
+        "img": "/images/ages/68.jpeg",
+        "subtitle": "For Ages 2 to 3",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+        "url": "#"
+      },
+      {
+        "subject": "Science",
+        "title": "Acids and Bases",
+        "img": "/images/ages/910.jpeg",
+        "subtitle": "For Ages 9 to 10",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+        "url": "#"
+      },
+      {
+        "subject": "Science",
+        "title": "Mechanics",
+        "img": "/images/ages/1112.jpeg",
+        "subtitle": "For Ages 11 to 12",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+        "url": "#"
+      }
+    ]
+  },
+  "ages": {
+    "courses": [
+      {
+        "title": "K to 2",
+        "img": "/images/ages/k2.jpeg",
+        "url": "k-2"
+      },
+      {
+        "title": "3 to 5",
+        "img": "/images/ages/35.jpeg",
+        "url": "3-5"
+      },
+      {
+        "title": "6 to 8",
+        "img": "/images/ages/68.jpeg",
+        "url": "6-8"
+      },
+      {
+        "title": "9 to 10",
+        "img": "/images/ages/910.jpeg",
+        "url": "9-10"
+      },
+      {
+        "title": "11 to 12",
+        "img": "/images/ages/1112.jpeg",
+        "url": "11-12"
+      }
+    ]
+  },
+  "subjects": {
+    "courses": [
+      {
+        "title": "Science",
+        "img": "/images/steam/s.jpeg",
+        "url": "science"
+      },
+      {
+        "title": "Technology",
+        "img": "/images/steam/t.jpeg",
+        "url": "technology"
+      },
+      {
+        "title": "Engineering",
+        "img": "/images/steam/e.jpeg",
+        "url": "engineering"
+      },
+      {
+        "title": "Arts",
+        "img": "/images/steam/a.jpeg",
+        "url": "arts"
+      },
+      {
+        "title": "Mathematics",
+        "img": "/images/steam/m.jpeg",
+        "url": "mathematics"
+      }
+    ]
+  }
+}

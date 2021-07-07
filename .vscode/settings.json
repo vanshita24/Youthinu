@@ -1,0 +1,13 @@
+{
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.singleQuote": true
+}
