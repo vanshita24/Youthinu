@@ -148,6 +148,7 @@ const TopBar = () => {
           <NavLink href='/#subjects'>Subjects</NavLink>
           <NavLink href='/aboutus'>About Us</NavLink>
           <NavLink href='/live'>Live Courses</NavLink>
+          <NavLink href='/faqs'>FAQs</NavLink>
         </nav>
 
         <UserProfile />
