@@ -49,6 +49,7 @@ module.exports = {
   variants: {
     extend: {},
     scrollbar: ['rounded'],
+    display: ["group-hover"]
   },
   plugins: [require('tailwind-scrollbar'), require('@tailwindcss/line-clamp')],
 };

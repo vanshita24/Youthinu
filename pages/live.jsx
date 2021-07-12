@@ -26,29 +26,24 @@ export default function Home(props) {
     Your browser does not support the video tag.
   </video>
 </header>
-<div className="flex justify-around">
-    <img className="mt-5 ml-auto-64 rounded-lg shadow-2xl h-80 w-1/3 mb-8 inline " src="/images/school.PNG" alt=""/>
-    <img className="mt-5  rounded-lg shadow-2xl  h-80 w-1/3 mb-8 inline" src="/images/individual.PNG" alt=""/>
-  
-  
+<div className="h-full px-12 py-12 lg:flex lg:justify-center lg:items-center">
+        <div className="grid lg:grid-cols-2 gap-12 lg:gap-x-16">
+            <div className="w-full max-w-md mx-auto ">
+            <img className=" rounded-lg shadowed-lg mb-10" src="/images/school.jpeg"/>
+           <Link href="/liveAcademy/school">
+  <a className=" flex justify-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl">School Courses</a>
+</Link>
+            </div>
+            <div className="w-full max-w-md mx-auto ">
+            <img className=" rounded-lg shadowed-lg mb-10" src="/images/school.jpeg"/>
+           <Link href="/liveAcademy/individual">
+  <a className=" flex justify-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl">Individual Courses</a>
+</Link>
+            </div>
       </div>
-  <div className="flex justify-around">
- 
-  <div>
   
-    <Link href="/liveAcademy/school">
-  <a className="focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-5 text-2xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl">School Courses</a>
-</Link>
-  
-  </div>
- 
-  <div>
-  
-  <Link href="/liveAcademy/individual">
-  <a className="focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-5 text-2xl text-white  bg-purple-900 active:scale-100 active:text-yellow-900   focus:shadow-outline rounded-xl">Individual Courses</a>
-</Link>
-  </div>
-  </div>
+    
+    </div>
 
 
 
