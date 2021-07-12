@@ -144,11 +144,11 @@ const TopBar = () => {
         }>
         <nav className=' text-white justify-start xl:items-center xl:ml-9 xl:mb-0 mb-5  xl:flex xl:flex-row flex flex-col bg-white flex-wrap flex-1 pt-3 xl:pt-0'>
         
-          <NavLink href='/#featured'>Featured</NavLink>
+          
           <NavLink href='/#ages'>Grades</NavLink>
           <NavLink href='/#subjects'>Subjects</NavLink>
           <NavLink href='/search'>Search</NavLink>
-          <NavLink href='/aboutus'>About Us</NavLink>
+        
           <NavLink href='/live'>Live Courses</NavLink>
           <NavLink href='/faqs'>FAQs</NavLink>
         </nav>

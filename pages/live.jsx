@@ -44,6 +44,10 @@ export default function Home(props) {
   
     
     </div>
+    <div className="flex justify-center p-5">
+    
+    <a href="/contactus" className=" flex justify-center items-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-pink-800 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl w-48">Book Live Demo</a>
+    </div>
 
 
 

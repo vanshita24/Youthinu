@@ -87,6 +87,7 @@ const ContactUSFragment = () => (
         <a href="/contactus">Contact Us</a>
     
       </span>
+      
     </div>
     <div className='inline-flex space-x-2 items-center'>
       <svg
@@ -128,6 +129,11 @@ const ContactUSFragment = () => (
         />
       </svg>
       <span> 3733, Cottesmore Dr, HighPoint, NC, USA </span>
+      
     </div>
+    <span className='text-white text-2xl font-semibold underline'>
+        <a href="/aboutus">About Us</a>
+    
+      </span>
   </div>
 );

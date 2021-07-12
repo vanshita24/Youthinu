@@ -12,8 +12,26 @@ export default function Home(props) {
                       <input type="text" class="h-14 w-96 pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none" placeholder="Any topic or teacher"></input>
                       <div className="absolute top-2 right-2"><button class="h-10 w-20 text-white rounded-lg bg-red-500 hover:bg-red-600">Search</button></div>
                   </div>
+                 
               </div>
+              <div className="flex">
+                  <p className="text-gray-500 text-xl">Topics:  </p>
+                  <button class="text-blue-400 bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-bue-300 active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button"
+      >Logical Math
+  
+</button>
+<button class="text-blue-400 bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-bue-300 active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button"
+      >Coding
+  
+</button>
+<button class="text-blue-400 bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-blue-700 active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button"
+      >Art
+  
+</button>
+                  </div>
+                  
           </div>
+          
     <br></br>
     <br></br>
     <br></br>
