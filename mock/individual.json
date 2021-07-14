@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Learn alphabets and sounds",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "Tamil belongs to the Dravidian family of languages and is spoken by well over 70 million people worldwide.In this class you will learn all the 247 Tamil letters + few Sanskrit letters we use in Tamil through English.You will get grip in Tamil pronunciation system."
+  },
+  {
+    "id": 2,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Tamil club level 1",
+    "time": "ongoing class",
+    "cost": "",
+    "desc": "This Spoken Tamil course focuses on learning the language and speaking the language, rather than learning the script. In this session you will learn the most important Tamil spoken grammar with detailed explanations"
+  },
+  {
+    "id": 3,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Yes, I speak tamil",
+    "time": "ongoing class",
+    "cost": "",
+    "desc": "This course will help you to understand all the Tamil tenses and how they are used in everyday situations. The course is explained all of the Tamil tenses with useful examples for you to use, practice, and improve your knowledge and understanding of Tamil in general everyday conversation."
+  }
+]
