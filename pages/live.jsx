@@ -22,30 +22,52 @@ export default function Blog({ posts }) {
             Your browser does not support the video tag.
           </video>
         </header>
-        <div className='h-full px-12 py-12 lg:flex lg:justify-center lg:items-center'>
-          <div className='grid lg:grid-cols-2 gap-12 lg:gap-x-16'>
-            <div className='w-full max-w-md mx-auto '>
-              <img
-                className=' rounded-lg shadowed-lg mb-10'
-                src='/images/school.jpeg'
-              />
-              <Link href='/liveAcademy/school'>
-                <a className=' flex justify-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl'>
-                  School Courses
-                </a>
-              </Link>
+        <div className='grid md:frid-cols-1 '>
+          <div className='grid  md:grid-cols-2 gap-10 sm:grid-cols-1 max-w-5xl ml-8 bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-5 justify-center items-center '>
+            <img
+              src='/images/individual.jpeg'
+              alt=''
+              className='w-full h-64 object-center rounded-lg shadow-lg'
+            />
+
+            <div className='p-8'>
+              <div>
+                <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
+                  <Link href='/liveAcademy/individual'>
+                    <a className=' flex justify-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl'>
+                      Individual Courses
+                    </a>
+                  </Link>
+                  <br></br>
+                  Schools Kids YouthInU ties up with various schools and
+                  organizations to teach Logical Math and Coding to kids (Grade
+                  1 to 8 )
+                </p>
+              </div>
             </div>
-            <div className='w-full max-w-md mx-auto '>
-              <img
-                className=' rounded-lg shadowed-lg mb-10'
-                src='/images/school.jpeg'
-              />
-              <Link href='/liveAcademy/individual'>
-                <a className=' flex justify-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl'>
-                  Individual Courses
-                </a>
-              </Link>
+          </div>
+
+          <div className='grid  md:grid-cols-2 gap-10 sm:grid-cols-1 max-w-5xl ml-56 bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-5 justify-center items-center '>
+            <div className='p-8'>
+              <div>
+                <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
+                  <Link href='/liveAcademy/school'>
+                    <a className=' flex justify-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl'>
+                      School Courses
+                    </a>
+                  </Link>
+                  <br></br>
+                  Schools Kids YouthInU ties up with various schools and
+                  organizations to teach Logical Math and Coding to kids (Grade
+                  1 to 8 )
+                </p>
+              </div>
             </div>
+            <img
+              src='/images/school.jpeg'
+              alt=''
+              className='w-full h-64 object-center rounded-lg shadow-lg'
+            />
           </div>
         </div>
         <div className='flex justify-center p-5'>
