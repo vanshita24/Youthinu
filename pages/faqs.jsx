@@ -6,7 +6,7 @@ export default function Faqs({ posts }) {
   return (
     <Main>
       <div className='m-auto flex flex-col justify-center'>
-        <h1 className='text-purple-600  text-4xl font-headline font-sans font-extrabold mt-20 flex justify-center'>
+        <h1 className='text-brand-red-light  text-4xl font-headline font-sans font-extrabold mt-20 flex justify-center'>
           Frequently Asked Questions (FAQs)
         </h1>
         <div className='flex justify-center px-10 py-15 min-w-full mt-3 '>

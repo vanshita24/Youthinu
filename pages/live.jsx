@@ -24,7 +24,7 @@ export default function Blog({ posts }) {
       <div className='flex flex-col lg:px-12 px-6'>
         <div className='flex self-start flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center '>
           <img
-            src='/images/individual.PNG'
+            src='/images/individual.jpeg'
             alt=''
             className='w-full h-64 object-center rounded-lg shadow-lg'
           />
@@ -33,7 +33,7 @@ export default function Blog({ posts }) {
             <div>
               <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
                 <Link href='/liveAcademy/individual'>
-                  <a className=' flex justify-start focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl'>
+                  <a className=' flex focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl justify-center'>
                     Individual Courses
                   </a>
                 </Link>
@@ -46,12 +46,17 @@ export default function Blog({ posts }) {
           </div>
         </div>
 
-        <div className='flex self-end max-w-5xl ml-56 bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-5 justify-center items-center '>
+        <div className='flex self-end flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center  '>
+          <img
+            src='/images/school.jpeg'
+            alt=''
+            className='w-full h-64 object-center rounded-lg shadow-lg'
+          />
           <div className='p-8'>
             <div className='flex justify-end'>
               <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
                 <Link href='/liveAcademy/school'>
-                  <a className=' flex  focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl'>
+                  <a className=' flex  focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-purple-900 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl justify-center'>
                     School Courses
                   </a>
                 </Link>
@@ -62,11 +67,6 @@ export default function Blog({ posts }) {
               </p>
             </div>
           </div>
-          <img
-            src='/images/school.jpeg'
-            alt=''
-            className='w-full h-64 object-center rounded-lg shadow-lg'
-          />
         </div>
       </div>
       <div className='flex justify-center p-5'>
@@ -78,7 +78,7 @@ export default function Blog({ posts }) {
       </div>
       <section className='w-full flex flex-col  items-center pb-10 bg-fixed'>
         <div>
-          <div className=' grid  md:grid-cols-3 lg:grid-cols-3 gap-6 sm:grid-cols-1 '>
+          <div className=' grid  md:grid-cols-1 lg:grid-cols-3 gap-6 sm:grid-cols-1 '>
             {posts.map((post) => {
               return <Blogs post={post} key={post.id} />;
             })}

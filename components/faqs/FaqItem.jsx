@@ -6,7 +6,7 @@ export default function FaqItem({ post }) {
   return (
     <div className='inline-block relative min-w-full'>
       <button
-        className='bg-brand-purple-light text-white font-semibold p-2 rounded inline-flex justify-between min-w-full'
+        className='bg-purple-300 text-gray-700 font-semibold p-2 rounded inline-flex justify-between min-w-full'
         onClick={() => setExpand((_expand) => !_expand)}>
         <span className='ml-3 '>{post.q}</span>
         <svg
