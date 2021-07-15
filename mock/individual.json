@@ -295,5 +295,59 @@
     "time": "8 weeks",
     "cost": "",
     "desc": " Welcome to Level 8!  "
+  },
+  {
+    "id": 34,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "French Enrichment 12-Week camp for beginners Level",
+    "time": "1-12 Weeks",
+    "cost": "",
+    "desc": "French as a second language will improve reading, speaking, listening, and culture with guided lessons.    "
+  },
+  {
+    "id": 35,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "French Enrichment 12-Week camp for beginners Level",
+    "time": "2-12 Weeks",
+    "cost": "",
+    "desc": "French as a second language will improve reading, speaking, listening, and culture with guided lessons.    "
+  },
+  {
+    "id": 36,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "French Help! Tutoring, Homework Help & Private Lessons",
+    "time": "30 minutes",
+    "cost": "",
+    "desc": "This is a one-time, private session for students looking to improve French grammar and content knowledge. Ask questions! Get explanations! Get homework help or be introduced to to new teacher-driven topics to build proficiency in French!  "
+  },
+  {
+    "id": 37,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Learn to Speak and Write in French",
+    "time": "8 Weeks",
+    "cost": "",
+    "desc": "Class in French to Learn to Speak, Read, and Write in French"
+  },
+  {
+    "id": 38,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Conversational French: Learning to Speak French for Beginners",
+    "time": "(ONGOING) - 8 Weeks",
+    "cost": "",
+    "desc": "In this course, students will learn key vocabulary, verbs, and grammar points to be able to have a simple conversation in French."
+  },
+  {
+    "id": 39,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Pre-K Circle Time in French! Learn French Through Songs and Movement",
+    "time": "8 Weeks",
+    "cost": "",
+    "desc": "In this ongoing course,Learn basic phrases, the alphabet, songs, and more in French! This class is great for young learners to experience French immersion twice a week.Beginners are to join a fun and friendly French circle time. "
   }
 ]
