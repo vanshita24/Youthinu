@@ -42,7 +42,7 @@ export default function IndividualCourse({ post }) {
         <div className='flex justify-center grid grid-cols-3 gap-2 place-items-center h-35 '>
           <a
             className='mb-5 bg-red-500 py-2 px-3 rounded-md text-white font-semibold text-lg mr-10 ml-56 '
-            href=''>
+            href={'/indi/' + post.id}>
             Enroll
           </a>
         </div>
