@@ -349,5 +349,212 @@
     "time": "8 Weeks",
     "cost": "",
     "desc": "In this ongoing course,Learn basic phrases, the alphabet, songs, and more in French! This class is great for young learners to experience French immersion twice a week.Beginners are to join a fun and friendly French circle time. "
+  },
+  {
+    "id": 40,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "German for Beginners Part 1",
+    "time": "4 Weeks",
+    "cost": "",
+    "desc": "Step by step to fluency. Learn German the right way, right from the beginning "
+  },
+  {
+    "id": 41,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "German for Beginners Part 2",
+    "time": "4 Weeks",
+    "cost": "",
+    "desc": "Learn About Key Concepts Of The German Language And Bring Your German To The Next Level "
+  },
+  {
+    "id": 41,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "German for Beginners Part 3",
+    "time": "4 Weeks",
+    "cost": "",
+    "desc": "Learn German the natural way, by virtually exposing yourself to real day-to-day language and engaging interactively. "
+  },
+  {
+    "id": 42,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "Let's read German - Letter Sounds and More Beginners",
+    "time": "4 Weeks",
+    "cost": "",
+    "desc": "Learn how to spell and pronounce words in the German language & practise listening to the letters of the German alphabet"
+  },
+  {
+    "id": 43,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "German for pre schoolers",
+    "time": "4 Weeks",
+    "cost": "",
+    "desc": "Join us on a German Adventure for kids as you learn to speak German."
+  },
+  {
+    "id": 44,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "Learn Words & Phrases",
+    "time": "12 Weeks",
+    "cost": "",
+    "desc": "Learn German the fast, easy, and right way! We'll cover basic fundamentals, common words & phrases, and pronunciation."
+  },
+  {
+    "id": 45,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "Conversational German for beginners",
+    "time": "5 Weeks",
+    "cost": "",
+    "desc": "After taking this introductory class in German conversation learners will be able to talk about a wide range of everyday topics such as hobbies and food."
+  },
+  {
+    "id": 46,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "German Enrichment 12-Week Flex Camp for Young Learners Level",
+    "time": "1 - 12 Week",
+    "cost": "",
+    "desc": "Young students of German as a second language will improve reading, speaking, listening, and culture with good lectures.  "
+  },
+  {
+    "id": 47,
+    "image": "drawers.jpg",
+    "Category": "German",
+    "name": "German culture and Language (flex)",
+    "time": " 5-Weeks",
+    "cost": "",
+    "desc": "In this 5-week course learners are able to explore a culture or festival lesson as well as a German language lesson each week."
+  },
+  {
+    "id": 48,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Let's learn Spanish",
+    "time": "4-Weeks",
+    "cost": "",
+    "desc": "In this 4 week class, students will be introduced to fun Spanish words and phrases.    "
+  },
+  {
+    "id": 49,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish for Young Learners: Intermediate",
+    "time": "16-Weeks",
+    "cost": "",
+    "desc": "In this 16-week course, students will continue develop their reading, writing, and comprehension skills in Spanish.    "
+  },
+  {
+    "id": 50,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish for Young Learners: Introduction (Part 1)",
+    "time": "8-Weeks",
+    "cost": "",
+    "desc": "In this 8-week course, learners will develop the basic skills to communicate in Spanish that include greetings, basic phrases, numbers from 0-100, days of the week, the alphabet, family members, daily routines, colours, parts of the house, transportation and a final project in español through in-class exercises, games, music and comics!    "
+  },
+  {
+    "id": 51,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish for Young Learners: Introduction (Part 2)",
+    "time": "8-Weeks",
+    "cost": "",
+    "desc": "In this 8-week course, students will continue to develop their reading, writing, and comprehension skills in Spanish. "
+  },
+  {
+    "id": 52,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish 1 for High School",
+    "time": "8-Weeks",
+    "cost": "",
+    "desc": "This eight-week course is designed to fulfill the academic requirements of High School Spanish 1. It's designed to build a foundation of the Spanish language through listening, comprehension, speaking, reading, writing, and culture.    "
+  },
+  {
+    "id": 53,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish 2 for High School",
+    "time": "8-Weeks",
+    "cost": "",
+    "desc": "This eight-week course is designed to fulfill the academic requirements of High School Spanish 2. It furthers the study and development of the four major skills of language learning – listening, comprehension, speaking, reading, writing, and the culture of the Spanish-speaking world. Prerequisite: Spanish 1 or equivalent.    "
+  },
+  {
+    "id": 54,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish 3 for High School",
+    "time": "8-Weeks",
+    "cost": "",
+    "desc": "This eight-week course is designed to fulfill the academic requirements of High School Spanish 3. There is an emphasis on opportunities to apply the four major skills of language learning – listening, comprehension, speaking, reading and writing, as well as the culture of the Spanish-speaking world. Prerequisite: Spanish 2 or equivalent    "
+  },
+  {
+    "id": 55,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish for Beginners",
+    "time": "15-Weeks",
+    "cost": "",
+    "desc": "In this 15 weeks (30 classes), you will go over the A1 beginner level and A2 elementary level in Spanish. You will learn the basic vocabulary, grammar and expressions using the present, informal future and past tense.    "
+  },
+  {
+    "id": 56,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Let's learn Spanish Words & Phrases",
+    "time": "4-Weeks",
+    "cost": "",
+    "desc": "In this 4 week class, students will be introduced to fun Spanish words and phrases    "
+  },
+  {
+    "id": 57,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "TruFluency Kids Spanish Immersion",
+    "time": "12-Weeks",
+    "cost": "",
+    "desc": "Spanish Immersion class taught via conversation, story telling, singing, cartoons, and interactive teacher/student questions and answers.    "
+  },
+  {
+    "id": 58,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish Conversation for Beginners",
+    "time": "8-Weeks",
+    "cost": "",
+    "desc": "In this 8-week course, students will learn the ins and outs of some basic Spanish grammar and vocab. Emphasis is placed on pronunciation, sentence structure, and comfort with holding a simple conversation in Spanish.    "
+  },
+  {
+    "id": 59,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish Conversation for Intermediate ",
+    "time": "4-Weeks",
+    "cost": "",
+    "desc": "A Spanish conversation course for young learners who need a little assistance speaking Spanish.    "
+  },
+  {
+    "id": 60,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "100% Spanish Immersion",
+    "time": "Ongoing Speaking Boot Camp by Native Speaker!",
+    "cost": "",
+    "desc": "It is a place for students to practice their Speaking Skills. Through Positive reinforcement & interactive games, Students will be encouraged to use proper pronunciation and grammar.    "
+  },
+  {
+    "id": 61,
+    "image": "drawers.jpg",
+    "Category": "Spanish",
+    "name": "Spanish Reading and Writing Time 1 and 2! Interactive Creative Course",
+    "time": "16-weeks",
+    "cost": "",
+    "desc": "In this 16 weeks the students will read, write and interact in Spanish.    "
   }
 ]
