@@ -25,5 +25,194 @@
     "time": "ongoing class",
     "cost": "",
     "desc": "This course will help you to understand all the Tamil tenses and how they are used in everyday situations. The course is explained all of the Tamil tenses with useful examples for you to use, practice, and improve your knowledge and understanding of Tamil in general everyday conversation."
+  },
+  {
+    "id": 4,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "reading readiness",
+    "time": "6 weeks",
+    "cost": "",
+    "desc": "This is the  most effective Tamil language learning experience for beginners in English as well as in Tamil, who want to learn Tamil but don't know where to start. This course follows the natural process of learning a language.At the end of the course you will be able to read and understand Tamil."
+  },
+  {
+    "id": 5,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Tamil is fun - Tamil for beginners",
+    "time": "Ongoing class",
+    "cost": "",
+    "desc": "In this course you will have a great knowledge of the basic Tamil spoken.No previous Tamil knowledge is required.A desire to understand the tenses in the Tamil language That's why this course will have you speaking Tamil from the basics. This course slowly teaches you key phases by building on small sentences.  And, this course will help you to understand all the Tamil tenses and how they are used in everyday situations. The course is explained all of the Tamil tenses with useful examples for you to use, practice, and improve your knowledge and understanding of Tamil in general everyday conversation."
+  },
+  {
+    "id": 6,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Reading tamil with phonetic method ",
+    "time": "2x per week over 3 weeks",
+    "cost": "",
+    "desc": "In this course Phonics is the teaching of the sounds that letters make, rather than the names of letters that are taught in the alphabet, because it is the sounds that are useful for reading and writing, not the names. These sounds are taught in a systematic way, alongside all of the skills needed for being a fluent reader and writer. "
+  },
+  {
+    "id": 7,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Introduction to Tamil - Level 2  ",
+    "time": "Once per week over 6 weeks ",
+    "cost": "",
+    "desc": "A conversational Tamil course for beginners who want to learn spoken Tamil through English. "
+  },
+  {
+    "id": 8,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Yes! Let's Speak Tamil...for the Little Ones (Age 4-8)  ",
+    "time": "5 Weeks",
+    "cost": "",
+    "desc": "Here in this class the students will get to know how to speak in Tamil."
+  },
+  {
+    "id": 9,
+    "image": "drawers.jpg",
+    "Category": "Tamil",
+    "name": "Yes! Let's Speak Tamil...Age 8+ ",
+    "time": "5 Weeks",
+    "cost": "",
+    "desc": "A conversational Tamil course for beginners who want to learn spoken Tamil"
+  },
+  {
+    "id": 10,
+    "image": "drawers.jpg",
+    "Category": "Hindi",
+    "name": "Hindi for beginners level 1 - alphabets and phonics AGE 4-8",
+    "time": "8 Weeks",
+    "cost": "",
+    "desc": "Learn Hindi vocabulary & Hindi phrases quickly in this concise, robust & efficacious course with flashcards."
+  },
+  {
+    "id": 11,
+    "image": "drawers.jpg",
+    "Category": "Hindi",
+    "name": "Hindi for beginners level 1 - alphabets and phonics AGE 8+",
+    "time": "8 Weeks",
+    "cost": "",
+    "desc": "The course is aimed at a wide range of students with a general interest in Hindi. No prior knowledge of Hindi is required as the course is for complete beginners."
+  },
+  {
+    "id": 12,
+    "image": "drawers.jpg",
+    "Category": "Hindi",
+    "name": "Hindi for beginners level 2",
+    "time": "Once per week over 6 weeks ",
+    "cost": "",
+    "desc": "Course for absolute beginners in Hindi Language & learn with fun methods to start speaking Hindi from day one."
+  },
+  {
+    "id": 13,
+    "image": "drawers.jpg",
+    "Category": "Hindi",
+    "name": "Hindi for beginners level 3",
+    "time": "Once per week over 6 weeks ",
+    "cost": "",
+    "desc": "Learn Spoken Hindi quickly and get comfortable with simple everyday sentences through this very engaging course."
+  },
+  {
+    "id": 14,
+    "image": "drawers.jpg",
+    "Category": "Hindi",
+    "name": "Hindi for intermediate level",
+    "time": "Once per week - Ongoing  ",
+    "cost": "",
+    "desc": "Learn Hindi Step by step starting with Vowels, Consonants, commonly used words, pictures, meaning, advanced grammar etc."
+  },
+  {
+    "id": 15,
+    "image": "drawers.jpg",
+    "Category": "Hindi",
+    "name": "Yes! Let's Speak Hindi...for the Little Ones (Age 4-8)",
+    "time": "5 weeks",
+    "cost": "",
+    "desc": "This course is designed for learners who wish to learn and speak Hindi at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Hindi with correct pronunciation of each alphabet. Join vowels and consonants to make simple words."
+  },
+  {
+    "id": 16,
+    "image": "drawers.jpg",
+    "Category": "Hindi",
+    "name": "Yes! Let's Speak Hindi...Age 8+",
+    "time": "5 weeks",
+    "cost": "",
+    "desc": "Learn Spoken Hindi language with vocabulary, grammar & writing in learn Hindi language speaking, writing, grammar course."
+  },
+  {
+    "id": 17,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Learn alphabets and sounds",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "This Course will give you a Proper guidance to learn the alphabets,improve Spellings and Pronunciation for Basic to Advanced Learners."
+  },
+  {
+    "id": 18,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Yes, I speak telugu",
+    "time": "ongoing class",
+    "cost": "",
+    "desc": "This course is designed for learners who wish to learn and speak Telugu at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Telugu with correct pronunciation of each alphabet."
+  },
+  {
+    "id": 19,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Telugu - reading readiness",
+    "time": "6 weeks ",
+    "cost": "",
+    "desc": "This course gives students a basic knowledge on Telugu language. Students can get a good grip on Telugu script and they can learn Telugu language in easy way. Here they can learn basic and advanced Telugu"
+  },
+  {
+    "id": 20,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Telugu is fun - Telugu for beginners",
+    "time": "Ongoing class",
+    "cost": "",
+    "desc": "Do you want to Telugu language then this course can help you achieve that"
+  },
+  {
+    "id": 21,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Reading Telugu with phonetic method",
+    "time": "2x per week over 3 weeks",
+    "cost": "",
+    "desc": "Learning a language is a long journey with small destination. so this course is the first destination towards completing your journey."
+  },
+  {
+    "id": 22,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Introduction to Telugu - Level 2 ",
+    "time": "Once per week over 6 weeks",
+    "cost": "",
+    "desc": "The course emphasis on the different types of sentences and how they are arranged to give a small glimpse of how language works."
+  },
+  {
+    "id": 23,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Yes! Let's Speak Telugu...for the Little Ones (Age 4-8)",
+    "time": "5 weeks",
+    "cost": "",
+    "desc": "This course is designed for learners who wish to learn and speak Telugu at an easy pace without getting puzzled by complicated grammatical patterns and structure. Learn how to speak Telugu with correct pronunciation of each alphabet. "
+  },
+  {
+    "id": 24,
+    "image": "drawers.jpg",
+    "Category": "Telegu",
+    "name": "Yes! Let's Speak Telugu...Age 8+",
+    "time": "5 weeks",
+    "cost": "",
+    "desc": "This course is designed for learners who wish to learn and speak Telugu at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Telugu with correct pronunciation of each alphabet."
   }
 ]

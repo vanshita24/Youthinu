@@ -25,7 +25,7 @@ export default function Blog({ posts }) {
         <div className='grid md:frid-cols-1 '>
           <div className='grid  md:grid-cols-2 gap-10 sm:grid-cols-1 max-w-5xl ml-8 bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-5 justify-center items-center '>
             <img
-              src='/images/individual.jpeg'
+              src='/images/individual.PNG'
               alt=''
               className='w-full h-64 object-center rounded-lg shadow-lg'
             />
