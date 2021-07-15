@@ -214,5 +214,86 @@
     "time": "5 weeks",
     "cost": "",
     "desc": "This course is designed for learners who wish to learn and speak Telugu at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Telugu with correct pronunciation of each alphabet."
+  },
+  {
+    "id": 25,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Learn Alphabet, Words and Pronunciation",
+    "time": "5 weeks",
+    "cost": "",
+    "desc": "In this 5 day camp, students will learn the basics of the french language even if they have never spoken french before! Come learn the alphabet, words and pronunciation in a fun learning environment!"
+  },
+  {
+    "id": 26,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 1",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "8 week online beginner French language learning course "
+  },
+  {
+    "id": 27,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 2",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "Have you already completed 'Introduction to French - Level 1' and are looking for more? you are in the right platform.. "
+  },
+  {
+    "id": 28,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 3",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "If you have completed Level 1 and Level 2, then welcome aboard to Level 3!! Let's start "
+  },
+  {
+    "id": 29,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 4",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "Continue your journey of French, with Level 4!"
+  },
+  {
+    "id": 30,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 5",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "If you have completed Levels 1-4, join me here for Introduction of French Level 5!!"
+  },
+  {
+    "id": 31,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 6",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": "Hope you have successfully completed Level 5,stay tuned to start Level 6!     "
+  },
+  {
+    "id": 32,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 7",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": " Welcome to Level 7! we will complete the French course soon..   "
+  },
+  {
+    "id": 33,
+    "image": "drawers.jpg",
+    "Category": "French",
+    "name": "Introduction to French - Level 8",
+    "time": "8 weeks",
+    "cost": "",
+    "desc": " Welcome to Level 8!  "
   }
 ]
