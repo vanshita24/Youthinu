@@ -1,6 +1,6 @@
 import Data from '../../mock/individual.json';
 import Main from '~/layouts/main';
-import Star from '../../components/Star';
+
 export default function Indi() {
   return (
     <Main>
@@ -17,8 +17,21 @@ export default function Indi() {
                 speaking the language, rather than learning the script. In this
                 session you will learn the most important Tamil spoken grammar
                 with detailed explanations
+                <div className='p-6 flex justify-around'>
+                  <button
+                    class=' bg-brand-green-dark text-white active:bg-pink-600 font-extrabold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150'
+                    type='button'>
+                    Share
+                  </button>
+                  <button
+                    class=' bg-brand-green-dark text-white active:bg-pink-600 font-extrabold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150'
+                    type='button'>
+                    WishList
+                  </button>
+                </div>
               </h1>
             </header>
+
             <div className='p-5'>
               <h1 className='text-black font-bold text-2xl '>
                 What you'll learn
@@ -91,7 +104,7 @@ export default function Indi() {
                 <div className='flex justify-center  h-35  '>
                   <a
                     className='mb-5 bg-red-500 py-2 px-3 rounded-md text-white font-semibold text-lg mr-10 ml-6 mt-10 '
-                    href=''>
+                    href='/checkout'>
                     Buy Now
                   </a>
                 </div>
