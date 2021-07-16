@@ -24,7 +24,7 @@ export default function Blogs({ post }) {
         <div className='flex justify-center  h-35  '>
           <a
             className='mb-5 bg-red-500 py-2 px-3 rounded-md text-white font-semibold text-lg mr-10 ml-6 mt-10 '
-            href={'/liveAcademy/' + post.l}>
+            href={'/liveAcademy/blogs/' + post.l}>
             Read More
           </a>
         </div>
