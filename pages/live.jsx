@@ -17,7 +17,7 @@ export default function Blog({ posts }) {
           className=' w-auto  h-1/4'
           height='720'
           width='1280'>
-          <source src='/videos/banner.mp4' type='video/mp4' />
+          <source src='/videos/banner2.mp4' type='video/mp4' />
           Your browser does not support the video tag.
         </video>
       </header>

@@ -23,7 +23,7 @@ export default function Individual({ posts }) {
           />
         </header>
 
-        <div className='flex justify-center lg:grid-cols-4 md:grid-cols-3 gap-3 sm:grid-cols-2 '>
+        <div className='justify-center grid lg:grid-cols-4 md:grid-cols-3 gap-3 sm:grid-cols-2 '>
           {posts.map((post) => {
             return <IndividualCourse post={post} key={post.id} />;
           })}
