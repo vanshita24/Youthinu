@@ -6,11 +6,11 @@ export default function FourthPost() {
     <Main>
       <div class='p-8'>
         <div>
-          <h1 className='text-purple-700 font-extrabold text-xl mt-5 text-center text-3xl'>
+          <h1 className='text-purple-700 font-extrabold mt-5 text-center text-3xl'>
             ART
           </h1>
         </div>
-        <div class='uppercase tracking-wide text-sm text-red-500 font-semibold text-center mt-5 text-2xl'>
+        <div class='uppercase tracking-wide  text-red-500 font-semibold text-center mt-5 text-2xl'>
           Art is as natural as sunshine and as vital as nourishment.{' '}
           <div className='camelcase font-bold'>Mary Ann F. Kohl</div>
         </div>
