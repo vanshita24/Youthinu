@@ -2,64 +2,66 @@ import Main from '~/layouts/main';
 export default function checkout() {
   return (
     <Main>
-      <div className='max-w-wp-pusher mx-auto p-10'>
-        <div className='flex mb-8 shadow-lg'>
-          <div className='w-2/3 bg-white rounded-lg'>
-            <form action=''>
+      <div className='min-w-full h-screen '>
+        <div className='grid  md:grid-cols-2 sm:grid-col-1 '>
+          <div className='   bg-gray-50 '>
+            <header className='  mb-12 overflow-hidden '>
               <h1 className='text-3xl font-bold text-brand-purple-dark p-10 border-b border-grey-200 uppercase '>
-                {' '}
-                checkout
+                Checkout
               </h1>
-              <div className='p-10 pt-8 border-b border-gray-200'>
-                <div className='flex items-center mb-4'>
-                  <div className='border-2 border-brand-green-light py-2 px-3 rounded-full font-bold mr-2 text-brand-purple-dark'>
-                    1
+              <form action=''>
+                <div className='p-10 pt-8 border-b border-gray-200'>
+                  <div className='flex items-center mb-4'>
+                    <div className='border-2 border-brand-green-light py-2 px-3 rounded-full font-bold mr-2 text-brand-purple-dark'>
+                      1
+                    </div>
+                    <h2 className='text-lg font-bold text-brand-purple-dark'>
+                      Your Basic Information
+                    </h2>
                   </div>
-                  <h2 className='text-lg font-bold text-brand-purple-dark'>
-                    Your Basic Information
-                  </h2>
+                  <div className='flex flex-wrap'>
+                    <div className='w-1/2'>
+                      <label
+                        for='first_name'
+                        type='text'
+                        className='text-lg mb-2 '>
+                        First Name
+                      </label>
+                      <input
+                        id='first_name'
+                        type='text'
+                        className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
+                      />
+                    </div>
+                    <div className='w-1/2 mr-1 mt-2 '>
+                      <label
+                        for='last_name'
+                        type='text'
+                        className='text-lg mb-2 '>
+                        Last Name
+                      </label>
+                      <input
+                        id='last_name'
+                        type='text'
+                        className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
+                      />
+                    </div>
+                    <div className='w-1/2 mr-1 mt-2 '>
+                      <label for='email' type='email' className='text-lg mb-2 '>
+                        Email
+                      </label>
+                      <input
+                        id='email'
+                        type='email'
+                        className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
+                      />
+                    </div>
+                  </div>
                 </div>
-                <div className='flex flex-wrap'>
-                  <div className='w-1/2'>
-                    <label
-                      for='first_name'
-                      type='text'
-                      className='text-lg mb-2 '>
-                      First Name
-                    </label>
-                    <input
-                      id='first_name'
-                      type='text'
-                      className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
-                    />
-                  </div>
-                  <div className='w-1/2 mr-1 mt-2 '>
-                    <label
-                      for='last_name'
-                      type='text'
-                      className='text-lg mb-2 '>
-                      Last Name
-                    </label>
-                    <input
-                      id='last_name'
-                      type='text'
-                      className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
-                    />
-                  </div>
-                  <div className='w-1/2 mr-1 mt-2 '>
-                    <label for='email' type='email' className='text-lg mb-2 '>
-                      Email
-                    </label>
-                    <input
-                      id='email'
-                      type='email'
-                      className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
-                    />
-                  </div>
-                </div>
-              </div>
-            </form>
-            <div className='p-10 pt-8 border-b border-gray-200'>
+              </form>
+            </header>
+
+            <div className='p-5 border-b border-gray-200'>
               <div className='flex items-center mb-4'>
                 <div className='border-2 border-brand-green-light py-2 px-3 rounded-full font-bold mr-2 text-brand-purple-dark'>
                   2
@@ -70,9 +72,36 @@ export default function checkout() {
               </div>
             </div>
           </div>
+          <div className='flex justify-items-end bg-gray-50 '>
+            <article className=' mt-8 flex justify-self-end relative  sm:mx-auto bg-brand-green-light rounded-xl flex-col shadow-sm hover:shadow-lg overflow-hidden  h-full w-96 '>
+              <figure>
+                <img
+                  className='p-3'
+                  src='/images/drawers.jpg'
+                  layout='responsive'
+                  height={222}
+                  width={400}
+                />
+              </figure>
 
-          <div className='w-1/3 bg-brand-green-light text-brand-purple-dark rounded-r'>
-            <h2 className='text-3xl font-bold p-10  uppercase'>Summary</h2>
+              <div className='flex flex-col items-center flex-grow'>
+                <div className='flex justify-end'>
+                  <h1 className='mt-6 text-3xl font-headline tracking-tight font-extrabold text-brand-purple-light leading-snug ml-5'>
+                    Summary
+                    <br />
+                    <span className='text-black text-xl'>
+                      <ul>
+                        <li>Original price: ₹4,480</li>
+                        <li>Coupon discounts: -₹3,990</li>
+                      </ul>
+                    </span>
+                    <div className=' border-t-2 border-gray-400 text-2xl text-black'>
+                      Total : ₹490
+                    </div>
+                  </h1>
+                </div>
+              </div>
+            </article>
           </div>
         </div>
       </div>

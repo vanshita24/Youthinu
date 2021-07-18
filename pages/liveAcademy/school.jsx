@@ -14,15 +14,6 @@ export default function ThirdPost() {
           <div className='w-full max-w-md mx-auto '>
             <img
               className=' rounded-t-lg shadowed-lg'
-              src='/images/maths.jpeg'
-            />
-            <h1 className=' shadowed-lg h-14 px-4 py-4 border border-black-400 font-bold  font-sans  rounded-b-lg '>
-              Logical math
-            </h1>
-          </div>
-          <div className='w-full max-w-md mx-auto '>
-            <img
-              className=' rounded-t-lg shadowed-lg'
               src='/images/coding.jpeg'
             />
             <h1 className=' shadowed-lg h-14 px-4 py-4 border border-black-400 font-bold font-sans rounded-b-lg'>
@@ -30,6 +21,16 @@ export default function ThirdPost() {
               Coding
             </h1>
           </div>
+          <div className='w-full max-w-md mx-auto '>
+            <img
+              className=' rounded-t-lg shadowed-lg'
+              src='/images/maths.jpeg'
+            />
+            <h1 className=' shadowed-lg h-14 px-4 py-4 border border-black-400 font-bold  font-sans  rounded-b-lg '>
+              Logical math
+            </h1>
+          </div>
+
           <div className='w-full max-w-md mx-auto'>
             <img
               className=' rounded-t-lg shadowed-lg'

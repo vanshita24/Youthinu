@@ -6,7 +6,7 @@ export default function FaqItem({ post }) {
   return (
     <div className='inline-block relative min-w-full'>
       <button
-        className='bg-purple-300 text-gray-700 font-semibold p-2 rounded inline-flex justify-between min-w-full'
+        className='bg-purple-300 text-gray-700 font-bold text-xl p-2 rounded inline-flex justify-between min-w-full'
         onClick={() => setExpand((_expand) => !_expand)}>
         <span className='ml-3 '>{post.q}</span>
         <svg
@@ -17,11 +17,11 @@ export default function FaqItem({ post }) {
         </svg>
       </button>
       <ul
-        className='text-gray-700 transition-height duration-1000 ease-in-out overflow-hidden'
+        className='text-gray-700 text-xl transition-height duration-1000 ease-in-out overflow-hidden'
         style={!expand ? { height: '0px' } : { height: 'auto' }}>
         <li>
           <a
-            className='bg-gray-200 px-2 py-2 block whitespace-no-wrap'
+            className='bg-gray-200 px-2 py-2 block whitespace-no-wrap text-xl'
             href='#'>
             {post.a}
           </a>
