@@ -23,12 +23,6 @@ export default function Blog({ posts }) {
       </header>
       <div className='flex flex-col lg:px-12 px-6'>
         <div className='flex self-start flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center '>
-          <img
-            src='/images/individual.jpeg'
-            alt=''
-            className='w-full h-64 object-center rounded-lg shadow-lg'
-          />
-
           <div className='p-8'>
             <div>
               <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
@@ -44,6 +38,11 @@ export default function Blog({ posts }) {
               </p>
             </div>
           </div>
+          <img
+            src='/images/indi2.jpeg'
+            alt=''
+            className='w-full h-64 object-center rounded-lg shadow-lg'
+          />
         </div>
 
         <div className='flex self-end flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center  '>
@@ -72,8 +71,8 @@ export default function Blog({ posts }) {
       <div className='flex justify-center p-5'>
         <a
           href='/contactus'
-          className=' flex justify-center items-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-pink-800 active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl w-48'>
-          Book Live Demo
+          className=' flex justify-center items-center focus:outline-none focus:ring focus:border-yellow-300 hover:bg-yellow-600 p-3 text-xl text-white  bg-brand-red-dark active:scale-100 active:text-yellow-500   focus:shadow-outline rounded-xl w-48'>
+          Book A Free Demo
         </a>
       </div>
       <section className='w-full flex flex-col  items-center pb-10 bg-fixed'>
