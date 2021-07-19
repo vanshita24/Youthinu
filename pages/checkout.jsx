@@ -1,5 +1,10 @@
 import Main from '~/layouts/main';
-
+import React from 'react';
+import ReactDOM from 'react-dom';
+import StripeCheckout from 'react-stripe-checkout';
+function handleToken(token, addresses) {
+  console.log({ token, addresses });
+}
 export default function checkout() {
   return (
     <Main>
@@ -70,6 +75,12 @@ export default function checkout() {
                 <h2 className='text-lg font-bold text-brand-purple-dark'>
                   Your Payment Information
                 </h2>
+                <div className=' ml-5 mt-14'>
+                  <StripeCheckout
+                    stripeKey='pk_live_51IRygNKRYckKhBlpD3XxxglnwXaq0zNGVXgMLQjUzK21dJW60jn9rjZHBDwUTfOF9ZDPjBeWJu7DJvog0eUR9pM800QsDjw1s7'
+                    token={handleToken}
+                  />
+                </div>
                 <br></br>
               </div>
             </div>
