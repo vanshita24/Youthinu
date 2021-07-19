@@ -3,9 +3,9 @@ import Main from '~/layouts/main';
 export default function checkout() {
   return (
     <Main>
-      <div className=' min-w-full '>
+      <div className=' min-w-full p-5  '>
         <div className='grid  md:grid-cols-2 sm:grid-col-1 '>
-          <div className='bg-gray-50'>
+          <div className='flex flex-col bg-gray-50 mr-8'>
             <header className='  mb-12 overflow-hidden '>
               <h1 className='text-3xl font-bold text-brand-purple-dark p-10 border-b border-grey-200 uppercase '>
                 Checkout
@@ -74,7 +74,7 @@ export default function checkout() {
               </div>
             </div>
           </div>
-          <div className='flex justify-items-end bg-gray-50'>
+          <div className='flex justify-items-end  '>
             <article className=' mt-10 flex justify-self-end relative  sm:mx-auto bg-brand-green-light rounded-xl flex-col shadow-sm hover:shadow-lg overflow-hidden  h-full w-96 '>
               <figure>
                 <img
