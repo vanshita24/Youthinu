@@ -22,8 +22,8 @@ export default function Blog({ posts }) {
         </video>
       </header>
       <div className='flex flex-col lg:px-12 px-6'>
-        <div className='flex self-start flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center '>
-          <div className='p-8'>
+        <div className='flex self-start flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center  '>
+          <div className='p-8 flex-grow'>
             <div>
               <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
                 <Link href='/liveAcademy/individual'>
@@ -38,19 +38,19 @@ export default function Blog({ posts }) {
             </div>
           </div>
           <img
-            src='/images/indi2.jpeg'
+            src='/images/school.jpeg'
             alt=''
-            className='w-full h-64 object-center rounded-lg shadow-lg'
+            className='h-64 object-center rounded-lg shadow-lg'
           />
         </div>
 
         <div className='flex self-end flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center  '>
           <img
-            src='/images/school.jpeg'
+            src='/images/individual.jpeg'
             alt=''
-            className='w-full h-64 object-center rounded-lg shadow-lg'
+            className='h-64 object-center rounded-lg shadow-lg'
           />
-          <div className='p-8'>
+          <div className='p-8 flex-grow'>
             <div className='flex justify-end'>
               <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
                 <Link href='/liveAcademy/school'>
@@ -73,13 +73,13 @@ export default function Blog({ posts }) {
           Book A Free Demo
         </a>
       </div>
-      <h1 className='mt-24 text-3xl lg:text-4xl font-headline tracking-tight font-bold text-gray-900 leading-snug flex justify-center p-3'>
-        YiuAcademy Applications
+      <h1 className='mt-24 text-3xl lg:text-4xl font-headline tracking-tight font-bold text-brand-purple-light leading-snug flex justify-center p-3'>
+        YiuAcademy Benefits
       </h1>
-      <section className='w-full flex flex-col  items-center p-5 bg-fixed mt-8'>
+      <section className='w-full flex flex-col  items-center p-5 bg-fixed '>
         <div>
           <div className=' grid  md:grid-cols-1 lg:grid-cols-3 gap-6 sm:grid-cols-1 '>
-            <article className=' relative sm:max-w-xl sm:mx-auto  flex rounded-xl flex-col  overflow-hidden w-96  '>
+            <article className=' relative sm:max-w-xl sm:mx-auto  flex rounded-xl flex-col  overflow-hidden w-96 mt-10 '>
               <figure>
                 <img
                   className='p-3'
@@ -128,7 +128,7 @@ export default function Blog({ posts }) {
                 </p>
               </div>
             </article>
-            <article className=' relative   sm:max-w-xl sm:mx-auto  flex rounded-xl flex-col  overflow-hidden w-96 '>
+            <article className=' relative   sm:max-w-xl sm:mx-auto  flex rounded-xl flex-col  overflow-hidden w-96 mt-12 '>
               <figure>
                 <img
                   className='p-3'

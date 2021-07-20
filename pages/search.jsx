@@ -124,10 +124,10 @@ export default function Search(props) {
           </div>
         </div>
 
-        <div className='flex'>
+        <div className='flex justify-center'>
           <p className='text-gray-500 text-xl'>Topics: </p>
           <button
-            class='text-blue-400 bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-blue-700 active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150'
+            class='text-brand-purple-light text-lg bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-blue-700 active:bg-pink-600 font-bold uppercase px-6 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150'
             type='button'>
             Logical Math
           </button>
