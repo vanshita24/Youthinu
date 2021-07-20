@@ -1,7 +1,16 @@
 import Main from '~/layouts/main';
-import React from 'react';
+
 import ReactDOM from 'react-dom';
 import StripeCheckout from 'react-stripe-checkout';
+import React, { useState } from 'react';
+import { loadStripe } from '@stripe/stripe-js';
+import {
+  CardElement,
+  Elements,
+  useElements,
+  useStripe,
+} from '@stripe/react-stripe-js';
+
 function handleToken(token, addresses) {
   console.log({ token, addresses });
 }
