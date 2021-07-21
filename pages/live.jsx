@@ -22,8 +22,8 @@ export default function Blog({ posts }) {
         </video>
       </header>
       <div className='flex flex-col lg:px-12 px-6'>
-        <div className='flex self-start flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center '>
-          <div className='p-8'>
+        <div className='flex  self-start flex-col-reverse lg:flex-row  max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center '>
+          <div className='p-8 '>
             <div>
               <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
                 <Link href='/liveAcademy/individual'>
