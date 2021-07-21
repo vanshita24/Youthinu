@@ -16,5 +16,14 @@
     "cat3": "500-1000",
     "cat4": ">1000",
     "cat5": "Any"
+  },
+  {
+    "id": 3,
+    "filter": "Topics",
+    "cat1": "Algebra",
+    "cat2": "logirithms",
+    "cat3": "cpp",
+    "cat4": "java",
+    "cat5": "Any"
   }
 ]

@@ -1,11 +1,13 @@
 import Star from '/components/Star.jsx';
+import Image from 'next/image';
 import Heart from '/components/Heart.jsx';
 export default function IndividualCourse({ post }) {
   return (
     <article className=' relative h-full  sm:max-w-xl sm:mx-auto bg-gray-50 flex rounded-xl flex-col shadow-sm hover:shadow-lg overflow-hidden w-80'>
       <figure>
-        <img
-          src={'/images/' + post.image}
+        <Image
+          objectFit='cover'
+          src='/images/Individual/tr:w-320/tamil1.jpg'
           layout='responsive'
           height={222}
           width={320}

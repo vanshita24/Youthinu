@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.1",
+    "@stripe/react-stripe-js": "^1.4.1",
     "@stripe/stripe-js": "^1.16.0",
     "@tailwindcss/line-clamp": "^0.2.0",
     "@urql/devtools": "^2.0.3",
