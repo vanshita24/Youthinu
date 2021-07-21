@@ -13,7 +13,7 @@ const SliderCard = ({
   return (
     <div className={className}>
       <div className='absolute top-0 -right-0  z-20 w-20 overflow-visible '>
-        <span className='block absolute text-center top-5 -left-5 transform  rotate-45 w-32 bg-brand-green-light text-brand-red-light font-semibold font-chicle tracking-wider text-sm p-1'>
+        <span className='block absolute text-center text-2xl top-5 -left-5 transform  rotate-45 w-32 bg-brand-green-light text-brand-red-light font-semibold font-chicle tracking-wider text-sm p-1'>
           Featured
         </span>
       </div>
@@ -33,7 +33,7 @@ const SliderCard = ({
           <p className='text-gray-800 font-medium mt-4 flex-1 overflow-ellipsis overflow-hidden flex-wrap'>
             {description}
           </p>
-          <footer className='mt-4 justify-center flex h-11 '>
+          <footer className='mt-4 justify-end flex h-11 '>
             <button className='text-white bg-brand-red-dark border-b-4  border-brand-red-light font-semibold py-2 px-4 rounded-lg flex justify-between transform active:translate-y-1 active:border-b-0'>
               Watch &nbsp;
               <svg
