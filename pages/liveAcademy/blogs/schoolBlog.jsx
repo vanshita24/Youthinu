@@ -7,7 +7,7 @@ export default function Codemath() {
       <div class='p-8'>
         <div>
           <h1 className='text-red-500 font-extrabold text-xl mt-5 text-center text-3xl'>
-            CODING AND LOGICAL MATH CLASSES FOR SCHOOLS BLOG
+            CODING AND LOGICAL MATH CLASSES FOR SCHOOLS
           </h1>
         </div>
 

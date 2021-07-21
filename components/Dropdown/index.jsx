@@ -3,7 +3,7 @@ import { useState } from 'react';
 export default function Dropdown({ post }) {
   const [expand, setExpand] = useState(false);
   return (
-    <div className='inline-block relative min-w-48 '>
+    <div className='inline-block w-auto '>
       <button
         className='bg-white text-brand-purple-light font-semibold text-lg p-2 rounded inline-flex justify-between w-48 border border-solid border-blue-500 '
         onClick={() => setExpand((_expand) => !_expand)}>

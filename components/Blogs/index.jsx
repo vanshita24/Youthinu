@@ -1,6 +1,6 @@
 export default function Blogs({ post }) {
   return (
-    <article className=' relative h-3/4   sm:max-w-xl sm:mx-auto  bg-gray-50 flex rounded-xl flex-col shadow-sm hover:shadow-lg overflow-hidden w-96 mt-36 '>
+    <article className=' relative min-h-screen   sm:max-w-xl sm:mx-auto  bg-gray-50 flex rounded-xl flex-col shadow-sm hover:shadow-lg overflow-hidden w-96 mt-36 '>
       <figure>
         <img
           className='p-3'

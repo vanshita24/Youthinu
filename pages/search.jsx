@@ -11,7 +11,7 @@ export default function Search({ posts }) {
       <h1 className='text-purple-600  text-4xl font-headline font-sans font-extrabold flex justify-start mt-20'>
         Find Classes
       </h1>
-      <div className='bg-gray-100 flex flex-col justify-center w-full max-width-screen-2xl h-80'>
+      <div className='bg-gray-100 flex flex-col justify-center w-full  h-80'>
         <div className='container h-48 flex flex-col justify-center items-center mt-3 border-b-2  border-solid border-gray-200'>
           <div className='relative'>
             <div className='absolute top-4 left-3'>
@@ -30,35 +30,13 @@ export default function Search({ posts }) {
             </div>
             <input
               type='text'
-              class='h-14 w-96 pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none'
+              class='h-14 min-w-full lg:w-96 pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none'
               placeholder='Any topic or teacher'></input>
             <div className='absolute top-2 right-2'>
               <button class='h-10 w-20 text-white rounded-lg bg-red-500 hover:bg-red-600'>
                 Search
               </button>
             </div>
-          </div>
-          <div className='flex justify-center mb-6 mt-5 '>
-            {posts.map((post) => {
-              return <Dropdown post={post} key={post.id} />;
-            })}
-          </div>
-        </div>
-
-        <div className='flex flex-row justify-center w-full max-width-screen-2xl'>
-          <p className='text-gray-500 text-xl font-bold '>TOPICS:</p>
-          <div className='flex flex-row'>
-            {Data.map((x) => {
-              return (
-                <>
-                  <button
-                    class='text-brand-purple-light text-lg bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-blue-700 active:bg-pink-600 font-bold uppercase px-6 py-3  rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150'
-                    type='button'>
-                    {x.c}
-                  </button>
-                </>
-              );
-            })}
           </div>
         </div>
       </div>
