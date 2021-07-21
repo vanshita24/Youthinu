@@ -22,7 +22,7 @@ export default function Blog({ posts }) {
         </video>
       </header>
       <div className='flex flex-col lg:px-12 px-6'>
-        <div className='flex self-start flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center  '>
+        <div className='flex self-start flex-col-reverse lg:flex-row  max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center  '>
           <div className='p-8 flex-grow'>
             <div>
               <p className='text-gray-700 text-base font-bold justify-center line-clamp-6 '>
@@ -38,7 +38,7 @@ export default function Blog({ posts }) {
             </div>
           </div>
           <img
-            src='/images/school.jpeg'
+            src='/images/individual.jpeg'
             alt=''
             className='h-64 object-center rounded-lg shadow-lg'
           />
@@ -46,7 +46,7 @@ export default function Blog({ posts }) {
 
         <div className='flex self-end flex-col lg:flex-row max-w-5xl bg-purple-100 overflow-hidden shadow-md rounded-lg mb-12 p-1 lg:p-5 justify-center items-center  '>
           <img
-            src='/images/individual.jpeg'
+            src='/images/school.jpeg'
             alt=''
             className='h-64 object-center rounded-lg shadow-lg'
           />

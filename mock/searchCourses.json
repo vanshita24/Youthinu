@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "c": "Logical Math"
+  },
+  {
+    "id": 2,
+    "c": "Coding"
+  },
+  {
+    "id": 3,
+    "c": "Art"
+  },
+  {
+    "id": 4,
+    "c": "Science"
+  },
+  {
+    "id": 4,
+    "c": "Technology"
+  },
+  {
+    "id": 4,
+    "c": "Engineering"
+  },
+  {
+    "id": 5,
+    "c": "Maths"
+  },
+  {
+    "id": 5,
+    "c": "Tamil"
+  },
+  {
+    "id": 5,
+    "c": "French"
+  },
+  {
+    "id": 5,
+    "c": "Sanskrit"
+  }
+]
