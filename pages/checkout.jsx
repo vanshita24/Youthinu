@@ -1,19 +1,6 @@
 import Main from '~/layouts/main';
+import App from './payment';
 
-import ReactDOM from 'react-dom';
-import StripeCheckout from 'react-stripe-checkout';
-import React, { useState } from 'react';
-import { loadStripe } from '@stripe/stripe-js';
-import {
-  CardElement,
-  Elements,
-  useElements,
-  useStripe,
-} from '@stripe/react-stripe-js';
-
-function handleToken(token, addresses) {
-  console.log({ token, addresses });
-}
 export default function checkout() {
   return (
     <Main>
@@ -85,10 +72,7 @@ export default function checkout() {
                   Your Payment Information
                 </h2>
                 <div className=' ml-5 mt-14'>
-                  <StripeCheckout
-                    stripeKey='pk_live_51IRygNKRYckKhBlpD3XxxglnwXaq0zNGVXgMLQjUzK21dJW60jn9rjZHBDwUTfOF9ZDPjBeWJu7DJvog0eUR9pM800QsDjw1s7'
-                    token={handleToken}
-                  />
+                  <App />
                 </div>
                 <br></br>
               </div>
