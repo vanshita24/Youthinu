@@ -3,7 +3,7 @@ import Image from 'next/image';
 const Course = ({ course }) => {
   const {
     imageCard: img,
-    grade: { name: ageGroup },
+    grade: { name: grades },
     actualPriceUSD,
     offerPriceUSD,
     showOffer,
@@ -23,11 +23,11 @@ const Course = ({ course }) => {
         />
       </figure>
       <ul className=' h-16 items-stretch w-full bg-gray-100 grid grid-cols-2'>
-        <li className='bg-brand-purple-dark text-white font-bold flex flex-col justify-center items-center px-2'>
-          <p>Age Group</p>
-          <p>{ageGroup}</p>
+        <li className='bg-brand-red-dark text-white font-bold flex flex-col justify-center items-center px-2'>
+          <p>Grades</p>
+          <p>{grades}</p>
         </li>
-        <li className='bg-brand-red-dark flex items-center justify-center'>
+        <li className='bg-brand-purple-dark flex items-center justify-center'>
           <p className='text-white font-extrabold text-2xl flex items-center justify-center'>
             $ {actualPriceUSD}
           </p>

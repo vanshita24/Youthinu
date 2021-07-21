@@ -5,7 +5,7 @@
       {
         "_id": 1,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -16,7 +16,7 @@
       {
         "_id": 2,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -27,7 +27,7 @@
       {
         "_id": 3,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -38,7 +38,7 @@
       {
         "_id": 4,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -49,7 +49,7 @@
       {
         "_id": 5,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -60,7 +60,7 @@
       {
         "_id": 6,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -71,7 +71,7 @@
       {
         "_id": 7,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -82,7 +82,7 @@
       {
         "_id": 8,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -97,7 +97,7 @@
       {
         "_id": 1,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -108,7 +108,7 @@
       {
         "_id": 2,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -119,7 +119,7 @@
       {
         "_id": 3,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -130,7 +130,7 @@
       {
         "_id": 4,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -141,7 +141,7 @@
       {
         "_id": 5,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -152,7 +152,7 @@
       {
         "_id": 6,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -163,7 +163,7 @@
       {
         "_id": 7,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
@@ -174,7 +174,7 @@
       {
         "_id": 8,
         "img": "/images/course/java.jpg",
-        "ageGroup": "2 - 6",
+        "grades": "2 - 6",
         "actualPriceUSD": "56",
         "offerPriceUSD": "56",
         "showOffer": true,
