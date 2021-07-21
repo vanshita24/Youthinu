@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "Learn alphabets and sounds.jpg",
+    "image": "https://ik.imagekit.io/arun@lemorian.tech/Tamil_conversational_club_level_1.png",
     "Category": "Tamil",
     "name": "Learn alphabets and sounds",
     "time": "8 weeks",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "Tamil Club level 1.png",
+    "image": "Intro_to_Tamil-_Level_1.jpg",
     "Category": "Tamil",
     "name": "Tamil club level 1",
     "time": "ongoing class",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "Tamil is fun.jpg",
+    "image": "Tamil_is_fun.jpg",
     "Category": "Tamil",
     "name": "Tamil is fun - Tamil for beginners",
     "time": "Ongoing class",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "Reading tamil with phonetic method.jfif",
+    "image": "Reading_tamil_with_phonetic_method.png",
     "Category": "Tamil",
     "name": "Reading tamil with phonetic method ",
     "time": "2x per week over 3 weeks",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "Introduction to Tamil - Level 2.jfif",
+    "image": "Intro_to_Tamil-Level_2.jpg",
     "Category": "Tamil",
     "name": "Introduction to Tamil - Level 2  ",
     "time": "Once per week over 6 weeks ",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "Yes! Let's Speak Tamil...for the Little Ones.jpg",
+    "image": "Yes__Let_s_Speak_Tamil...for_the_Little_Ones__2_.png",
     "Category": "Tamil",
     "name": "Yes! Let's Speak Tamil...for the Little Ones (Age 4-8)  ",
     "time": "5 Weeks",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "image": "Yes! Let's Speak tamil.jpg",
+    "image": "Yes__Let_s_Speak_Tamil...for_the_Little_Ones__2_.png",
     "Category": "Tamil",
     "name": "Yes! Let's Speak Tamil...Age 8+ ",
     "time": "5 Weeks",
