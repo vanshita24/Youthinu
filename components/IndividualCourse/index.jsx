@@ -7,7 +7,7 @@ export default function IndividualCourse({ post }) {
       <figure>
         <Image
           objectFit='cover'
-          src={'/images/Individual/tr:w-320/' + post.image}
+          src={'/Tamil/tr:w-320/' + post.image}
           layout='responsive'
           height={222}
           width={320}

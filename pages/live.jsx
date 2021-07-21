@@ -32,8 +32,8 @@ export default function Blog({ posts }) {
                   </a>
                 </Link>
                 <br></br>
-                YouthInU trains kids for competitive math exams and coding(Grade
-                1 to 8)
+                YouthInU trains kids for competitive math exams (like math
+                kangaroo, math olympiad etc) and coding(Grade 1 to 8)
               </p>
             </div>
           </div>
@@ -83,7 +83,7 @@ export default function Blog({ posts }) {
               <figure>
                 <img
                   className='p-3'
-                  src='/images/app1.png'
+                  src='/images/ap1.png'
                   layout='responsive'
                   height={222}
                   width={400}
@@ -108,7 +108,7 @@ export default function Blog({ posts }) {
               <figure>
                 <img
                   className='p-3'
-                  src='/images/app2.png'
+                  src='/images/ap2.png'
                   layout='responsive'
                   height={222}
                   width={400}
@@ -132,7 +132,7 @@ export default function Blog({ posts }) {
               <figure>
                 <img
                   className='p-3'
-                  src='/images/app3.png'
+                  src='/images/ap3.png'
                   layout='responsive'
                   height={222}
                   width={400}
