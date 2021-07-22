@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 9,
     "image": "https://ik.imagekit.io/arun@lemorian.tech/Tamil_conversational_club_level_1.png",
     "Category": "Tamil",
     "name": "Learn alphabets and sounds",
@@ -9,7 +9,7 @@
     "desc": "Tamil belongs to the Dravidian family of languages and is spoken by well over 70 million people worldwide.In this class you will learn all the 247 Tamil letters + few Sanskrit letters we use in Tamil through English.You will get grip in Tamil pronunciation system."
   },
   {
-    "id": 2,
+    "id": 10,
     "image": "Intro_to_Tamil-_Level_1.jpg",
     "Category": "Tamil",
     "name": "Tamil club level 1",
@@ -18,7 +18,7 @@
     "desc": "This Spoken Tamil course focuses on learning the language and speaking the language, rather than learning the script. In this session you will learn the most important Tamil spoken grammar with detailed explanations"
   },
   {
-    "id": 3,
+    "id": 11,
     "image": "Yes, I speak tamil.jpg",
     "Category": "Tamil",
     "name": "Yes, I speak tamil",
@@ -27,7 +27,7 @@
     "desc": "This course will help you to understand all the Tamil tenses and how they are used in everyday situations. The course is explained all of the Tamil tenses with useful examples for you to use, practice, and improve your knowledge and understanding of Tamil in general everyday conversation."
   },
   {
-    "id": 4,
+    "id": 12,
     "image": "Tamil - reading readiness.jpg",
     "Category": "Tamil",
     "name": "reading readiness",
@@ -36,7 +36,7 @@
     "desc": "This is the  most effective Tamil language learning experience for beginners in English as well as in Tamil, who want to learn Tamil but don't know where to start. This course follows the natural process of learning a language.At the end of the course you will be able to read and understand Tamil."
   },
   {
-    "id": 5,
+    "id": 13,
     "image": "Tamil_is_fun.jpg",
     "Category": "Tamil",
     "name": "Tamil is fun - Tamil for beginners",
@@ -45,7 +45,7 @@
     "desc": "In this course you will have a great knowledge of the basic Tamil spoken.No previous Tamil knowledge is required.A desire to understand the tenses in the Tamil language That's why this course will have you speaking Tamil from the basics. This course slowly teaches you key phases by building on small sentences.  And, this course will help you to understand all the Tamil tenses and how they are used in everyday situations. The course is explained all of the Tamil tenses with useful examples for you to use, practice, and improve your knowledge and understanding of Tamil in general everyday conversation."
   },
   {
-    "id": 6,
+    "id": 14,
     "image": "Reading_tamil_with_phonetic_method.png",
     "Category": "Tamil",
     "name": "Reading tamil with phonetic method ",
@@ -54,7 +54,7 @@
     "desc": "In this course Phonics is the teaching of the sounds that letters make, rather than the names of letters that are taught in the alphabet, because it is the sounds that are useful for reading and writing, not the names. These sounds are taught in a systematic way, alongside all of the skills needed for being a fluent reader and writer. "
   },
   {
-    "id": 7,
+    "id": 15,
     "image": "Intro_to_Tamil-Level_2.jpg",
     "Category": "Tamil",
     "name": "Introduction to Tamil - Level 2  ",
@@ -63,7 +63,7 @@
     "desc": "A conversational Tamil course for beginners who want to learn spoken Tamil through English. "
   },
   {
-    "id": 8,
+    "id": 16,
     "image": "Yes__Let_s_Speak_Tamil...for_the_Little_Ones__2_.png",
     "Category": "Tamil",
     "name": "Yes! Let's Speak Tamil...for the Little Ones (Age 4-8)  ",
@@ -72,7 +72,7 @@
     "desc": "Here in this class the students will get to know how to speak in Tamil."
   },
   {
-    "id": 9,
+    "id": 17,
     "image": "Yes__Let_s_Speak_Tamil...for_the_Little_Ones__2_.png",
     "Category": "Tamil",
     "name": "Yes! Let's Speak Tamil...Age 8+ ",
@@ -81,7 +81,7 @@
     "desc": "A conversational Tamil course for beginners who want to learn spoken Tamil"
   },
   {
-    "id": 10,
+    "id": 18,
     "image": "drawers.jpg",
     "Category": "Hindi",
     "name": "Hindi for beginners level 1 - alphabets and phonics AGE 4-8",
@@ -90,7 +90,7 @@
     "desc": "Learn Hindi vocabulary & Hindi phrases quickly in this concise, robust & efficacious course with flashcards."
   },
   {
-    "id": 11,
+    "id": 19,
     "image": "drawers.jpg",
     "Category": "Hindi",
     "name": "Hindi for beginners level 1 - alphabets and phonics AGE 8+",
@@ -99,7 +99,7 @@
     "desc": "The course is aimed at a wide range of students with a general interest in Hindi. No prior knowledge of Hindi is required as the course is for complete beginners."
   },
   {
-    "id": 12,
+    "id": 20,
     "image": "drawers.jpg",
     "Category": "Hindi",
     "name": "Hindi for beginners level 2",
@@ -108,7 +108,7 @@
     "desc": "Course for absolute beginners in Hindi Language & learn with fun methods to start speaking Hindi from day one."
   },
   {
-    "id": 13,
+    "id": 21,
     "image": "drawers.jpg",
     "Category": "Hindi",
     "name": "Hindi for beginners level 3",
@@ -117,7 +117,7 @@
     "desc": "Learn Spoken Hindi quickly and get comfortable with simple everyday sentences through this very engaging course."
   },
   {
-    "id": 14,
+    "id": 22,
     "image": "drawers.jpg",
     "Category": "Hindi",
     "name": "Hindi for intermediate level",
@@ -126,7 +126,7 @@
     "desc": "Learn Hindi Step by step starting with Vowels, Consonants, commonly used words, pictures, meaning, advanced grammar etc."
   },
   {
-    "id": 15,
+    "id": 23,
     "image": "drawers.jpg",
     "Category": "Hindi",
     "name": "Yes! Let's Speak Hindi...for the Little Ones (Age 4-8)",
@@ -135,85 +135,13 @@
     "desc": "This course is designed for learners who wish to learn and speak Hindi at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Hindi with correct pronunciation of each alphabet. Join vowels and consonants to make simple words."
   },
   {
-    "id": 16,
+    "id": 24,
     "image": "drawers.jpg",
     "Category": "Hindi",
     "name": "Yes! Let's Speak Hindi...Age 8+",
     "time": "5 weeks",
     "cost": "",
     "desc": "Learn Spoken Hindi language with vocabulary, grammar & writing in learn Hindi language speaking, writing, grammar course."
-  },
-  {
-    "id": 17,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Learn alphabets and sounds",
-    "time": "8 weeks",
-    "cost": "",
-    "desc": "This Course will give you a Proper guidance to learn the alphabets,improve Spellings and Pronunciation for Basic to Advanced Learners."
-  },
-  {
-    "id": 18,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Yes, I speak telugu",
-    "time": "ongoing class",
-    "cost": "",
-    "desc": "This course is designed for learners who wish to learn and speak Telugu at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Telugu with correct pronunciation of each alphabet."
-  },
-  {
-    "id": 19,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Telugu - reading readiness",
-    "time": "6 weeks ",
-    "cost": "",
-    "desc": "This course gives students a basic knowledge on Telugu language. Students can get a good grip on Telugu script and they can learn Telugu language in easy way. Here they can learn basic and advanced Telugu"
-  },
-  {
-    "id": 20,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Telugu is fun - Telugu for beginners",
-    "time": "Ongoing class",
-    "cost": "",
-    "desc": "Do you want to Telugu language then this course can help you achieve that"
-  },
-  {
-    "id": 21,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Reading Telugu with phonetic method",
-    "time": "2x per week over 3 weeks",
-    "cost": "",
-    "desc": "Learning a language is a long journey with small destination. so this course is the first destination towards completing your journey."
-  },
-  {
-    "id": 22,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Introduction to Telugu - Level 2 ",
-    "time": "Once per week over 6 weeks",
-    "cost": "",
-    "desc": "The course emphasis on the different types of sentences and how they are arranged to give a small glimpse of how language works."
-  },
-  {
-    "id": 23,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Yes! Let's Speak Telugu...for the Little Ones (Age 4-8)",
-    "time": "5 weeks",
-    "cost": "",
-    "desc": "This course is designed for learners who wish to learn and speak Telugu at an easy pace without getting puzzled by complicated grammatical patterns and structure. Learn how to speak Telugu with correct pronunciation of each alphabet. "
-  },
-  {
-    "id": 24,
-    "image": "drawers.jpg",
-    "Category": "Telegu",
-    "name": "Yes! Let's Speak Telugu...Age 8+",
-    "time": "5 weeks",
-    "cost": "",
-    "desc": "This course is designed for learners who wish to learn and speak Telugu at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Telugu with correct pronunciation of each alphabet."
   },
   {
     "id": 25,
@@ -349,212 +277,5 @@
     "time": "8 Weeks",
     "cost": "",
     "desc": "In this ongoing course,Learn basic phrases, the alphabet, songs, and more in French! This class is great for young learners to experience French immersion twice a week.Beginners are to join a fun and friendly French circle time. "
-  },
-  {
-    "id": 40,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "German for Beginners Part 1",
-    "time": "4 Weeks",
-    "cost": "",
-    "desc": "Step by step to fluency. Learn German the right way, right from the beginning "
-  },
-  {
-    "id": 41,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "German for Beginners Part 2",
-    "time": "4 Weeks",
-    "cost": "",
-    "desc": "Learn About Key Concepts Of The German Language And Bring Your German To The Next Level "
-  },
-  {
-    "id": 41,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "German for Beginners Part 3",
-    "time": "4 Weeks",
-    "cost": "",
-    "desc": "Learn German the natural way, by virtually exposing yourself to real day-to-day language and engaging interactively. "
-  },
-  {
-    "id": 42,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "Let's read German - Letter Sounds and More Beginners",
-    "time": "4 Weeks",
-    "cost": "",
-    "desc": "Learn how to spell and pronounce words in the German language & practise listening to the letters of the German alphabet"
-  },
-  {
-    "id": 43,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "German for pre schoolers",
-    "time": "4 Weeks",
-    "cost": "",
-    "desc": "Join us on a German Adventure for kids as you learn to speak German."
-  },
-  {
-    "id": 44,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "Learn Words & Phrases",
-    "time": "12 Weeks",
-    "cost": "",
-    "desc": "Learn German the fast, easy, and right way! We'll cover basic fundamentals, common words & phrases, and pronunciation."
-  },
-  {
-    "id": 45,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "Conversational German for beginners",
-    "time": "5 Weeks",
-    "cost": "",
-    "desc": "After taking this introductory class in German conversation learners will be able to talk about a wide range of everyday topics such as hobbies and food."
-  },
-  {
-    "id": 46,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "German Enrichment 12-Week Flex Camp for Young Learners Level",
-    "time": "1 - 12 Week",
-    "cost": "",
-    "desc": "Young students of German as a second language will improve reading, speaking, listening, and culture with good lectures.  "
-  },
-  {
-    "id": 47,
-    "image": "drawers.jpg",
-    "Category": "German",
-    "name": "German culture and Language (flex)",
-    "time": " 5-Weeks",
-    "cost": "",
-    "desc": "In this 5-week course learners are able to explore a culture or festival lesson as well as a German language lesson each week."
-  },
-  {
-    "id": 48,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Let's learn Spanish",
-    "time": "4-Weeks",
-    "cost": "",
-    "desc": "In this 4 week class, students will be introduced to fun Spanish words and phrases.    "
-  },
-  {
-    "id": 49,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish for Young Learners: Intermediate",
-    "time": "16-Weeks",
-    "cost": "",
-    "desc": "In this 16-week course, students will continue develop their reading, writing, and comprehension skills in Spanish.    "
-  },
-  {
-    "id": 50,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish for Young Learners: Introduction (Part 1)",
-    "time": "8-Weeks",
-    "cost": "",
-    "desc": "In this 8-week course, learners will develop the basic skills to communicate in Spanish that include greetings, basic phrases, numbers from 0-100, days of the week, the alphabet, family members, daily routines, colours, parts of the house, transportation and a final project in español through in-class exercises, games, music and comics!    "
-  },
-  {
-    "id": 51,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish for Young Learners: Introduction (Part 2)",
-    "time": "8-Weeks",
-    "cost": "",
-    "desc": "In this 8-week course, students will continue to develop their reading, writing, and comprehension skills in Spanish. "
-  },
-  {
-    "id": 52,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish 1 for High School",
-    "time": "8-Weeks",
-    "cost": "",
-    "desc": "This eight-week course is designed to fulfill the academic requirements of High School Spanish 1. It's designed to build a foundation of the Spanish language through listening, comprehension, speaking, reading, writing, and culture.    "
-  },
-  {
-    "id": 53,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish 2 for High School",
-    "time": "8-Weeks",
-    "cost": "",
-    "desc": "This eight-week course is designed to fulfill the academic requirements of High School Spanish 2. It furthers the study and development of the four major skills of language learning – listening, comprehension, speaking, reading, writing, and the culture of the Spanish-speaking world. Prerequisite: Spanish 1 or equivalent.    "
-  },
-  {
-    "id": 54,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish 3 for High School",
-    "time": "8-Weeks",
-    "cost": "",
-    "desc": "This eight-week course is designed to fulfill the academic requirements of High School Spanish 3. There is an emphasis on opportunities to apply the four major skills of language learning – listening, comprehension, speaking, reading and writing, as well as the culture of the Spanish-speaking world. Prerequisite: Spanish 2 or equivalent    "
-  },
-  {
-    "id": 55,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish for Beginners",
-    "time": "15-Weeks",
-    "cost": "",
-    "desc": "In this 15 weeks (30 classes), you will go over the A1 beginner level and A2 elementary level in Spanish. You will learn the basic vocabulary, grammar and expressions using the present, informal future and past tense.    "
-  },
-  {
-    "id": 56,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Let's learn Spanish Words & Phrases",
-    "time": "4-Weeks",
-    "cost": "",
-    "desc": "In this 4 week class, students will be introduced to fun Spanish words and phrases    "
-  },
-  {
-    "id": 57,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "TruFluency Kids Spanish Immersion",
-    "time": "12-Weeks",
-    "cost": "",
-    "desc": "Spanish Immersion class taught via conversation, story telling, singing, cartoons, and interactive teacher/student questions and answers.    "
-  },
-  {
-    "id": 58,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish Conversation for Beginners",
-    "time": "8-Weeks",
-    "cost": "",
-    "desc": "In this 8-week course, students will learn the ins and outs of some basic Spanish grammar and vocab. Emphasis is placed on pronunciation, sentence structure, and comfort with holding a simple conversation in Spanish.    "
-  },
-  {
-    "id": 59,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish Conversation for Intermediate ",
-    "time": "4-Weeks",
-    "cost": "",
-    "desc": "A Spanish conversation course for young learners who need a little assistance speaking Spanish.    "
-  },
-  {
-    "id": 60,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "100% Spanish Immersion",
-    "time": "Ongoing Speaking Boot Camp by Native Speaker!",
-    "cost": "",
-    "desc": "It is a place for students to practice their Speaking Skills. Through Positive reinforcement & interactive games, Students will be encouraged to use proper pronunciation and grammar.    "
-  },
-  {
-    "id": 61,
-    "image": "drawers.jpg",
-    "Category": "Spanish",
-    "name": "Spanish Reading and Writing Time 1 and 2! Interactive Creative Course",
-    "time": "16-weeks",
-    "cost": "",
-    "desc": "In this 16 weeks the students will read, write and interact in Spanish.    "
   }
 ]
