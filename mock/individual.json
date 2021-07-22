@@ -1,5 +1,87 @@
 [
   {
+    "id": 1,
+    "image": "Grade_1-2_Logical_Math.png",
+    "Category": "Logical_Math",
+    "name": "Grade 1-2 Logical Math",
+    "time": "10 weeks",
+    "cost": "$10 per class",
+    "age": "6 to 7yrs",
+    "desc": "This course is for any parent, who wish to keep their kids minds busy and also sharpen their logical abilities"
+  },
+  {
+    "id": 2,
+    "image": "Grade_3-5_Logical_Math.png",
+    "Category": "Logical_Math",
+    "name": "Grade 3-5 Logical Math",
+    "time": "10 weeks",
+    "cost": "$10 per class",
+    "age": "6 to 7yrs",
+    "desc": "This course is for any parent, who wish to keep their kids minds busy and also sharpen their logical abilities"
+  },
+  {
+    "id": 3,
+    "image": "Grade_3-5_Logical_Math.png",
+    "Category": "Logical_Math",
+    "name": "Grade 6-8 Logical Math",
+    "time": "12 weeks",
+    "cost": "$10 per class",
+    "age": "6 to 7yrs",
+    "desc": "This course is for any parent, who wish to keep their kids minds busy and also sharpen their logical abilities"
+  },
+  {
+    "id": 4,
+    "image": "Grade_1-2_Coding_-_Scratch_Jr.png",
+    "Category": "Logical_Math",
+    "name": "Grade 1-2 Coding - Scratch Jr",
+    "time": "4 weeks",
+    "cost": "$10 per class",
+    "age": "11 to 13yrs",
+    "desc": "Now with Scratch 3.0: learn to program, create games, have fun in Scratch! For kids and beginners, parents and teachers!"
+  },
+
+  {
+    "id": 5,
+    "image": "Grade_6-8_Coding_-_Python.png",
+    "Category": "Logical_Math",
+    "name": "Grade 6-8 Coding - Python",
+    "time": "6 weeks",
+    "cost": "$10 per class",
+    "age": "11 to 13yrs",
+    "desc": "Go from zero to hero in Python in weeks! Learn Python the easy way by building real-life Python programs!"
+  },
+  {
+    "id": 6,
+    "image": "Grade_1-2_Combo__logical_math___Coding_-_Scratch_Jr_.png",
+    "Category": "Logical_Math",
+    "name": "Grade 1-2 Combo (logical math + Coding - Scratch Jr)",
+    "time": "12 weeks",
+    "cost": "$10 per class",
+    "age": "6 to 7yrs",
+    "desc": "This is the course which helps your kids to develop many skills like |Logical|Creative|Decision making|Socilaistic and more more..It is a combination of Logical Math and Coding..Pls enroll to know more"
+  },
+  {
+    "id": 7,
+    "image": "Grade_3-5_Combo__logical_math___Coding_-_Scratch_.png",
+    "Category": "Logical_Math",
+    "name": "Grade 3-5 Combo (logical math + Coding - Scratch)",
+    "time": "12 weeks",
+    "cost": "$10 per class",
+    "age": "8 to 10yrs",
+    "desc": "This is the course which helps your kids to develop many skills like |Logical|Creative|Decision making|Socilaistic and more more..It is a combination of Logical Math and Coding..Pls enroll to know more"
+  },
+  {
+    "id": 8,
+    "image": "Grade_6-8_Combo__logical_math___Coding_-_Python__.png",
+    "Category": "Logical_Math",
+    "name": "Grade 6-8 Combo (logical math + Coding - Python) ",
+    "time": "15 weeks",
+    "cost": "$10 per class",
+    "age": "11 to 13yrs",
+    "desc": "This is the course which helps your kids to develop many skills like |Logical|Creative|Decision making|Socilaistic and more more..It is a combination of Logical Math and Coding..Pls enroll to know more"
+  },
+
+  {
     "id": 9,
     "image": "https://ik.imagekit.io/arun@lemorian.tech/Tamil_conversational_club_level_1.png",
     "Category": "Tamil",
