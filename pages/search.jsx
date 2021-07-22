@@ -8,12 +8,12 @@ import Data from '../mock/searchCourses.json';
 export default function Search({ posts }) {
   return (
     <Main>
-      <h1 className='text-purple-600  text-4xl font-headline font-sans font-extrabold flex justify-start mt-20'>
+      <h1 className='text-brand-purple-light  text-4xl font-headline font-sans font-extrabold flex justify-start mt-20 '>
         Find Classes
       </h1>
-      <div className='bg-gray-100 flex flex-col justify-center w-full  h-80'>
-        <div className='container h-48 flex flex-col justify-center items-center mt-3 border-b-2  border-solid border-gray-200'>
-          <div className='relative'>
+      <div className='bg-gray-100 flex flex-col justify-center min-w-full h-80 '>
+        <div className='container h-40 flex flex-col justify-center items-center  border-b-2  border-solid border-gray-200 mt-15 '>
+          <div className='relative '>
             <div className='absolute top-4 left-3'>
               <svg
                 class='w-6 h-6 absolute'
@@ -30,8 +30,8 @@ export default function Search({ posts }) {
             </div>
             <input
               type='text'
-              class='h-14 min-w-full lg:w-96 pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none'
-              placeholder='Any topic or teacher'></input>
+              class='h-14 min-w-max pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none'
+              placeholder='Any topic '></input>
             <div className='absolute top-2 right-2'>
               <button class='h-10 w-20 text-white rounded-lg bg-red-500 hover:bg-red-600'>
                 Search
@@ -39,8 +39,30 @@ export default function Search({ posts }) {
             </div>
           </div>
         </div>
+        <div className='flex justify-center'>
+          {posts.map((post) => {
+            return <Dropdown post={post} key={post.id} />;
+          })}
+        </div>
       </div>
-
+      <div className='grid grid-cols-3 gap-3 sm:grid-cols-11 '>
+        <button
+          class='text-gray-700 text-lg bg-transparent    font-bold uppercase    rounded outline-none focus:outline-none ease-linear '
+          type='button'>
+          TOPICS:
+        </button>
+        {Data.map((x) => {
+          return (
+            <>
+              <button
+                class='text-brand-purple-light text-lg bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-blue-700   font-bold uppercase  rounded outline-none focus:outline-none ease-linear '
+                type='button'>
+                {x.c}
+              </button>
+            </>
+          );
+        })}
+      </div>
       <br></br>
       <br></br>
       <br></br>

@@ -2,28 +2,19 @@
   {
     "id": 1,
     "filter": "Age",
-    "cat1": "6-8",
-    "cat2": "8-10",
-    "cat3": "10-14",
-    "cat4": "15-17",
-    "cat5": "Any"
+    "cat1": "Any",
+    "cat2": "6-8",
+    "cat3": "8-12",
+    "cat4": "13-15",
+    "cat5": "> 15"
   },
   {
     "id": 2,
     "filter": "Price",
-    "cat1": "<=200",
-    "cat2": "200-500",
-    "cat3": "500-1000",
-    "cat4": ">1000",
-    "cat5": "Any"
-  },
-  {
-    "id": 3,
-    "filter": "Topics",
-    "cat1": "Algebra",
-    "cat2": "logirithms",
-    "cat3": "cpp",
-    "cat4": "java",
-    "cat5": "Any"
+    "cat1": "Any",
+    "cat2": "$10 or less",
+    "cat3": "$10-$15",
+    "cat4": "$16-$20",
+    "cat5": "> $20"
   }
 ]

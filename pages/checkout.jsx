@@ -65,21 +65,27 @@ export default function checkout() {
 
             <div className='p-5 border-b border-gray-200'>
               <div className='flex items-center mb-4'>
-                <div className='border-2 border-brand-green-light py-2 px-3 rounded-full font-bold mr-2 text-brand-purple-dark'>
-                  2
+                <div className=' flex flex-col'>
+                  <div className='flex flex-row'>
+                    <div className='border-2 border-brand-green-light py-2 px-3 rounded-full font-bold mr-2 text-brand-purple-dark'>
+                      2
+                    </div>
+                    <h2 className='text-lg font-bold text-brand-purple-dark'>
+                      Your Payment Information
+                    </h2>
+                  </div>
+
+                  <div className=' ml-5 mt-14 flex bg-blue-200 border-2 justify-center'>
+                    <App />
+                  </div>
                 </div>
-                <h2 className='text-lg font-bold text-brand-purple-dark'>
-                  Your Payment Information
-                </h2>
-                <div className=' ml-5 mt-14'>
-                  <App />
-                </div>
+
                 <br></br>
               </div>
             </div>
           </div>
           <div className='flex justify-items-end  '>
-            <article className=' mt-10 flex justify-self-end relative  sm:mx-auto bg-brand-green-light rounded-xl flex-col shadow-sm hover:shadow-lg overflow-hidden  h-full w-96 '>
+            <article className=' mt-10 flex justify-self-end relative  sm:mx-auto bg-brand-green-light rounded-xl flex-col shadow-sm hover:shadow-lg overflow-hidden  h-screen w-96 '>
               <figure>
                 <img
                   className='p-3'

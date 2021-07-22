@@ -3,9 +3,9 @@ import { useState } from 'react';
 export default function Dropdown({ post }) {
   const [expand, setExpand] = useState(false);
   return (
-    <div className='inline-block w-auto '>
+    <div className=''>
       <button
-        className='bg-white text-brand-purple-light font-semibold text-lg p-2 rounded inline-flex justify-between w-48 border border-solid border-blue-500 '
+        className='bg-white text-brand-purple-light font-semibold text-sm lg:text-xl p-2 lg:p-4 rounded inline-flex  border border-solid border-blue-500 ml-7 '
         onClick={() => setExpand((_expand) => !_expand)}>
         <span className='ml-3 '>{post.filter}</span>
         <svg
@@ -19,7 +19,7 @@ export default function Dropdown({ post }) {
         className='text-gray-700 text-xl transition-height duration-1000 ease-in-out overflow-hidden'
         style={!expand ? { height: '0px' } : { height: 'auto' }}>
         <li>
-          <div className='bg-gray-200 px-2 py-2 block whitespace-no-wrap text-xl'>
+          <div className='bg-gray-200 px-2 py-2 block whitespace-no-wrap text-xl h-auto'>
             <div>
               <form action='#'>
                 <input

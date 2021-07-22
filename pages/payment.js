@@ -10,7 +10,7 @@ import {
 
 const CardField = ({ onChange }) => (
   <div className=''>
-    <div className='FormRow p-5 '>
+    <div className='FormRow p-3 bg-white border-2 mt-10 ml-2 mr-2 '>
       <CardElement />
     </div>
   </div>
@@ -26,14 +26,14 @@ const Field = ({
   value,
   onChange,
 }) => (
-  <div className='flex bg-gray-50 p-5'>
-    <div className='FormRow'>
+  <div className='flex p-3 '>
+    <div className='FormRow '>
       <label htmlFor={id} className='FormRowLabel m-auto'>
         {label}
       </label>
       <br></br>
       <input
-        className='FormRowInput'
+        className='FormRowInput p-2 '
         id={id}
         type={type}
         placeholder={placeholder}
@@ -50,7 +50,7 @@ const SubmitButton = ({ processing, error, children, disabled }) => (
   <button
     className={`SubmitButton ${
       error ? 'SubmitButton--error' : ''
-    } m-auto px-5 py-2 bg-brand-red-light rounded-lg shadow-lg flex justify-center hover:bg-brand-purple-dark`}
+    } m-auto px-5 py-2 bg-brand-red-light rounded-lg shadow-lg flex justify-center hover:bg-brand-purple-dark mt-10`}
     type='submit'
     disabled={processing || disabled}>
     {processing ? 'Processing...' : children}
@@ -156,10 +156,9 @@ const CheckoutForm = () => {
     <form className='Form' onSubmit={handleSubmit}>
       <fieldset className='FormGroup'>
         <Field
-          label='Name'
           id='name'
           type='text'
-          placeholder=''
+          placeholder='Name of the Cardholder'
           required
           autoComplete='name'
           value={billingDetails.name}
@@ -169,10 +168,9 @@ const CheckoutForm = () => {
         />
 
         <Field
-          label='Email'
           id='email'
           type='email'
-          placeholder=''
+          placeholder='Email'
           required
           autoComplete='email'
           value={billingDetails.email}
@@ -181,10 +179,9 @@ const CheckoutForm = () => {
           }}
         />
         <Field
-          label='Phone'
           id='phone'
           type='tel'
-          placeholder=''
+          placeholder='Phone'
           required
           autoComplete='tel'
           value={billingDetails.phone}
@@ -206,7 +203,7 @@ const CheckoutForm = () => {
         processing={processing}
         error={error}
         disabled={!stripe}
-        className='p-5 m-auto bg-brand-red-light'>
+        className='p-5 mt-5 bg-brand-red-light'>
         Pay $25
       </SubmitButton>
     </form>
