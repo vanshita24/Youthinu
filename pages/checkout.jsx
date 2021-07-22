@@ -75,7 +75,7 @@ export default function checkout() {
                     </h2>
                   </div>
 
-                  <div className=' ml-5 mt-14 flex bg-blue-200 border-2 justify-center'>
+                  <div className=' ml-5 mt-5 flex bg-blue-200 border-2 justify-center'>
                     <App />
                   </div>
                 </div>
