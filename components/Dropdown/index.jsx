@@ -5,7 +5,7 @@ export default function Dropdown({ post }) {
   return (
     <div className=''>
       <button
-        className='bg-white text-brand-purple-light font-semibold text-sm lg:text-xl p-2 lg:p-4 rounded inline-flex  border border-solid border-blue-500 ml-7 '
+        className='bg-brand-blue-light text-black font-semibold text-sm lg:text-xl p-2 lg:p-2 rounded-lg inline-flex  border border-solid border-blue-500 ml-7 '
         onClick={() => setExpand((_expand) => !_expand)}>
         <span className='ml-3 '>{post.filter}</span>
         <svg

@@ -18,7 +18,7 @@ export default function checkout() {
                       1
                     </div>
                     <h2 className='text-lg font-bold text-brand-purple-dark'>
-                      Your Basic Information
+                      Student's Information
                     </h2>
                   </div>
                   <div className='flex flex-wrap'>
@@ -32,7 +32,7 @@ export default function checkout() {
                       <input
                         id='first_name'
                         type='text'
-                        className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
+                        className='w-full text-sm bg-blue-200 text-brand-green-dark rounded px-3 py-3 outline-0'
                       />
                     </div>
                     <div className='w-1/2 mr-1 mt-2 '>
@@ -45,7 +45,17 @@ export default function checkout() {
                       <input
                         id='last_name'
                         type='text'
-                        className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
+                        className='w-full text-sm bg-blue-200 text-brand-green-dark rounded px-3 py-3 outline-0'
+                      />
+                    </div>
+                    <div className='w-1/2'>
+                      <label for='age' type='text' className='text-lg mb-2 '>
+                        Age
+                      </label>
+                      <input
+                        id='age'
+                        type='text'
+                        className='w-full text-sm bg-blue-200 text-brand-green-dark rounded px-3 py-3 outline-0'
                       />
                     </div>
                     <div className='w-1/2 mr-1 mt-2 '>
@@ -55,7 +65,7 @@ export default function checkout() {
                       <input
                         id='email'
                         type='email'
-                        className='w-full text-sm bg-brand-blue-light text-brand-green-dark rounded px-3 py-3 outline-0'
+                        className='w-full  text-sm bg-blue-200 text-brand-green-dark rounded px-3 py-3 outline-0'
                       />
                     </div>
                   </div>
@@ -97,20 +107,22 @@ export default function checkout() {
               </figure>
 
               <div className='flex flex-col items-center flex-grow'>
-                <div className='flex justify-end'>
-                  <h1 className='mt-6 text-3xl font-headline tracking-tight font-extrabold text-brand-purple-light leading-snug ml-5'>
+                <div className='flex flex-col justify-start'>
+                  <h1 className='mt-6 text-3xl font-headline tracking-tight font-extrabold text-black leading-snug '>
                     Summary
                     <br />
-                    <span className='text-black text-xl'>
+                  </h1>
+                  <div className='flex  mt-4'>
+                    <span className='text-black text-xl '>
                       <ul>
                         <li>Original price: ₹4,480</li>
                         <li>Coupon discounts: -₹3,990</li>
                       </ul>
+                      <div className=' border-t-2 border-gray-400 text-2xl text-black'>
+                        Total : ₹490
+                      </div>
                     </span>
-                    <div className=' border-t-2 border-gray-400 text-2xl text-black'>
-                      Total : ₹490
-                    </div>
-                  </h1>
+                  </div>
                 </div>
               </div>
             </article>

@@ -11,7 +11,7 @@ export default function Search({ posts }) {
       <h1 className='text-brand-purple-light  text-4xl font-headline font-sans font-extrabold flex justify-start mt-20 '>
         Find Classes
       </h1>
-      <div className='bg-gray-100 flex flex-col justify-center min-w-full h-80 '>
+      <div className='bg-gray-100 flex flex-col justify-center min-w-full h-96 '>
         <div className='container h-40 flex flex-col justify-center items-center  border-b-2  border-solid border-gray-200 mt-15 '>
           <div className='relative '>
             <div className='absolute top-4 left-3'>
@@ -44,18 +44,18 @@ export default function Search({ posts }) {
             return <Dropdown post={post} key={post.id} />;
           })}
         </div>
-      </div>
-      <div className='grid grid-cols-3 gap-3 sm:grid-cols-11 '>
         <button
-          class='text-gray-700 text-lg bg-transparent    font-bold uppercase    rounded outline-none focus:outline-none ease-linear '
+          class='flex justify-start mt-3 mx-3 text-brand-red-light text-2xl bg-transparent    font-bold uppercase    rounded outline-none focus:outline-none ease-linear '
           type='button'>
           TOPICS:
         </button>
+      </div>
+      <div className='grid grid-cols-3 gap-3  sm:grid-cols-5 p-2'>
         {Data.map((x) => {
           return (
             <>
               <button
-                class='text-brand-purple-light text-lg bg-transparent border border-solid border-blue-500 hover:bg-gray-400 hover:text-blue-700   font-bold uppercase  rounded outline-none focus:outline-none ease-linear '
+                class=' text-white text-lg bg-brand-purple-light border border-solid border-blue-500 hover:bg-brand-blue-light hover:text-black   font-bold uppercase  rounded outline-none focus:outline-none ease-linear '
                 type='button'>
                 {x.c}
               </button>
