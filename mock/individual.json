@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "Grade_3-5_Logical_Math.png",
+    "image": "Grade_6-8_Logical_Math.png",
     "Category": "Logical_Math",
     "name": "Grade 6-8 Logical Math",
     "time": "12 weeks",
@@ -83,281 +83,144 @@
 
   {
     "id": 9,
-    "image": "https://ik.imagekit.io/arun@lemorian.tech/Tamil_conversational_club_level_1.png",
+    "image": "Tamil_conversational_club_level_1.png",
     "Category": "Tamil",
-    "name": "Learn alphabets and sounds",
-    "time": "8 weeks",
-    "cost": "",
-    "desc": "Tamil belongs to the Dravidian family of languages and is spoken by well over 70 million people worldwide.In this class you will learn all the 247 Tamil letters + few Sanskrit letters we use in Tamil through English.You will get grip in Tamil pronunciation system."
-  },
-  {
-    "id": 10,
-    "image": "Intro_to_Tamil-_Level_1.jpg",
-    "Category": "Tamil",
-    "name": "Tamil club level 1",
+    "name": "Tamil conversational club level 1 ",
     "time": "ongoing class",
-    "cost": "",
+    "cost": "10$per class",
+    "age": "6 to 15yrs",
     "desc": "This Spoken Tamil course focuses on learning the language and speaking the language, rather than learning the script. In this session you will learn the most important Tamil spoken grammar with detailed explanations"
   },
   {
-    "id": 11,
-    "image": "Yes, I speak tamil.jpg",
-    "Category": "Tamil",
-    "name": "Yes, I speak tamil",
-    "time": "ongoing class",
-    "cost": "",
-    "desc": "This course will help you to understand all the Tamil tenses and how they are used in everyday situations. The course is explained all of the Tamil tenses with useful examples for you to use, practice, and improve your knowledge and understanding of Tamil in general everyday conversation."
-  },
-  {
-    "id": 12,
-    "image": "Tamil - reading readiness.jpg",
-    "Category": "Tamil",
-    "name": "reading readiness",
-    "time": "6 weeks",
-    "cost": "",
-    "desc": "This is the  most effective Tamil language learning experience for beginners in English as well as in Tamil, who want to learn Tamil but don't know where to start. This course follows the natural process of learning a language.At the end of the course you will be able to read and understand Tamil."
-  },
-  {
-    "id": 13,
+    "id": 10,
     "image": "Tamil_is_fun.jpg",
     "Category": "Tamil",
     "name": "Tamil is fun - Tamil for beginners",
     "time": "Ongoing class",
-    "cost": "",
+    "cost": "10$per class",
+    "age": "6 to 10yrs",
     "desc": "In this course you will have a great knowledge of the basic Tamil spoken.No previous Tamil knowledge is required.A desire to understand the tenses in the Tamil language That's why this course will have you speaking Tamil from the basics. This course slowly teaches you key phases by building on small sentences.  And, this course will help you to understand all the Tamil tenses and how they are used in everyday situations. The course is explained all of the Tamil tenses with useful examples for you to use, practice, and improve your knowledge and understanding of Tamil in general everyday conversation."
   },
   {
-    "id": 14,
+    "id": 11,
     "image": "Reading_tamil_with_phonetic_method.png",
     "Category": "Tamil",
     "name": "Reading tamil with phonetic method ",
-    "time": "2x per week over 3 weeks",
-    "cost": "",
+    "time": "6 weeks",
+    "cost": "60$",
+    "age": "6 to 12yrs",
     "desc": "In this course Phonics is the teaching of the sounds that letters make, rather than the names of letters that are taught in the alphabet, because it is the sounds that are useful for reading and writing, not the names. These sounds are taught in a systematic way, alongside all of the skills needed for being a fluent reader and writer. "
   },
+
   {
-    "id": 15,
+    "id": 12,
+    "image": "Intro_to_Tamil-_Level_1.jpg",
+    "Category": "Tamil",
+    "name": "Introduction to Tamil - Level 1",
+    "time": "6 weeks",
+    "cost": "60$",
+    "age": "6 to 15yrs",
+    "desc": "A conversational Tamil course for beginners who want to learn spoken Tamil through English.- Level 1"
+  },
+  {
+    "id": 13,
     "image": "Intro_to_Tamil-Level_2.jpg",
     "Category": "Tamil",
     "name": "Introduction to Tamil - Level 2  ",
-    "time": "Once per week over 6 weeks ",
-    "cost": "",
+    "time": "6 weeks",
+    "cost": "60$",
+    "age": "6 to 15yrs",
     "desc": "A conversational Tamil course for beginners who want to learn spoken Tamil through English. "
   },
   {
-    "id": 16,
+    "id": 14,
     "image": "Yes__Let_s_Speak_Tamil...for_the_Little_Ones__2_.png",
     "Category": "Tamil",
-    "name": "Yes! Let's Speak Tamil...for the Little Ones (Age 4-8)  ",
+    "name": "Yes! Let's Speak Tamil...for the Little Ones  ",
     "time": "5 Weeks",
-    "cost": "",
+    "cost": "50$",
+    "age": "5 to 8yrs",
     "desc": "Here in this class the students will get to know how to speak in Tamil."
   },
+
   {
-    "id": 17,
-    "image": "Yes__Let_s_Speak_Tamil...for_the_Little_Ones__2_.png",
-    "Category": "Tamil",
-    "name": "Yes! Let's Speak Tamil...Age 8+ ",
-    "time": "5 Weeks",
-    "cost": "",
-    "desc": "A conversational Tamil course for beginners who want to learn spoken Tamil"
-  },
-  {
-    "id": 18,
-    "image": "drawers.jpg",
-    "Category": "Hindi",
-    "name": "Hindi for beginners level 1 - alphabets and phonics AGE 4-8",
-    "time": "8 Weeks",
-    "cost": "",
-    "desc": "Learn Hindi vocabulary & Hindi phrases quickly in this concise, robust & efficacious course with flashcards."
-  },
-  {
-    "id": 19,
-    "image": "drawers.jpg",
-    "Category": "Hindi",
-    "name": "Hindi for beginners level 1 - alphabets and phonics AGE 8+",
-    "time": "8 Weeks",
-    "cost": "",
-    "desc": "The course is aimed at a wide range of students with a general interest in Hindi. No prior knowledge of Hindi is required as the course is for complete beginners."
-  },
-  {
-    "id": 20,
-    "image": "drawers.jpg",
-    "Category": "Hindi",
-    "name": "Hindi for beginners level 2",
-    "time": "Once per week over 6 weeks ",
-    "cost": "",
-    "desc": "Course for absolute beginners in Hindi Language & learn with fun methods to start speaking Hindi from day one."
-  },
-  {
-    "id": 21,
-    "image": "drawers.jpg",
-    "Category": "Hindi",
-    "name": "Hindi for beginners level 3",
-    "time": "Once per week over 6 weeks ",
-    "cost": "",
-    "desc": "Learn Spoken Hindi quickly and get comfortable with simple everyday sentences through this very engaging course."
-  },
-  {
-    "id": 22,
-    "image": "drawers.jpg",
-    "Category": "Hindi",
-    "name": "Hindi for intermediate level",
-    "time": "Once per week - Ongoing  ",
-    "cost": "",
-    "desc": "Learn Hindi Step by step starting with Vowels, Consonants, commonly used words, pictures, meaning, advanced grammar etc."
-  },
-  {
-    "id": 23,
-    "image": "drawers.jpg",
-    "Category": "Hindi",
-    "name": "Yes! Let's Speak Hindi...for the Little Ones (Age 4-8)",
-    "time": "5 weeks",
-    "cost": "",
-    "desc": "This course is designed for learners who wish to learn and speak Hindi at an easy pace without getting puzzled by complicated grammatical patterns and structure.Learn how to speak Hindi with correct pronunciation of each alphabet. Join vowels and consonants to make simple words."
-  },
-  {
-    "id": 24,
-    "image": "drawers.jpg",
-    "Category": "Hindi",
-    "name": "Yes! Let's Speak Hindi...Age 8+",
-    "time": "5 weeks",
-    "cost": "",
-    "desc": "Learn Spoken Hindi language with vocabulary, grammar & writing in learn Hindi language speaking, writing, grammar course."
-  },
-  {
-    "id": 25,
-    "image": "drawers.jpg",
+    "id": 15,
+    "image": "French-Learn_Alphabet_Words_and_Pronounciation.jpg",
     "Category": "French",
     "name": "Learn Alphabet, Words and Pronunciation",
     "time": "5 weeks",
-    "cost": "",
+    "cost": "50$",
+    "age": "5 to 8yrs",
     "desc": "In this 5 day camp, students will learn the basics of the french language even if they have never spoken french before! Come learn the alphabet, words and pronunciation in a fun learning environment!"
   },
   {
-    "id": 26,
-    "image": "drawers.jpg",
+    "id": 16,
+    "image": "Introduction_to_French_-_Level_1.png",
     "Category": "French",
     "name": "Introduction to French - Level 1",
     "time": "8 weeks",
-    "cost": "",
+    "cost": "80$",
+    "age": "5 to 12yrs",
     "desc": "8 week online beginner French language learning course "
   },
   {
-    "id": 27,
-    "image": "drawers.jpg",
+    "id": 17,
+    "image": "Introduction_to_French_-_Level_2.png",
     "Category": "French",
     "name": "Introduction to French - Level 2",
     "time": "8 weeks",
-    "cost": "",
+    "cost": "80$",
+    "age": "8+yrs",
     "desc": "Have you already completed 'Introduction to French - Level 1' and are looking for more? you are in the right platform.. "
   },
   {
-    "id": 28,
-    "image": "drawers.jpg",
+    "id": 18,
+    "image": "Introduction_to_French_-_Level_3.jpg",
     "Category": "French",
     "name": "Introduction to French - Level 3",
     "time": "8 weeks",
-    "cost": "",
+    "cost": "80$",
+    "age": "5 to 12yrs",
     "desc": "If you have completed Level 1 and Level 2, then welcome aboard to Level 3!! Let's start "
   },
   {
-    "id": 29,
-    "image": "drawers.jpg",
+    "id": 19,
+    "image": "French_Enrichment_12-Week_camp_for_beginners_Level_1.png",
     "Category": "French",
-    "name": "Introduction to French - Level 4",
-    "time": "8 weeks",
-    "cost": "",
-    "desc": "Continue your journey of French, with Level 4!"
-  },
-  {
-    "id": 30,
-    "image": "drawers.jpg",
-    "Category": "French",
-    "name": "Introduction to French - Level 5",
-    "time": "8 weeks",
-    "cost": "",
-    "desc": "If you have completed Levels 1-4, join me here for Introduction of French Level 5!!"
-  },
-  {
-    "id": 31,
-    "image": "drawers.jpg",
-    "Category": "French",
-    "name": "Introduction to French - Level 6",
-    "time": "8 weeks",
-    "cost": "",
-    "desc": "Hope you have successfully completed Level 5,stay tuned to start Level 6!     "
-  },
-  {
-    "id": 32,
-    "image": "drawers.jpg",
-    "Category": "French",
-    "name": "Introduction to French - Level 7",
-    "time": "8 weeks",
-    "cost": "",
-    "desc": " Welcome to Level 7! we will complete the French course soon..   "
-  },
-  {
-    "id": 33,
-    "image": "drawers.jpg",
-    "Category": "French",
-    "name": "Introduction to French - Level 8",
-    "time": "8 weeks",
-    "cost": "",
-    "desc": " Welcome to Level 8!  "
-  },
-  {
-    "id": 34,
-    "image": "drawers.jpg",
-    "Category": "French",
-    "name": "French Enrichment 12-Week camp for beginners Level",
-    "time": "1-12 Weeks",
-    "cost": "",
+    "name": "French Enrichment 12-Week camp for beginners Level 1",
+    "time": "12 Weeks",
+    "cost": "120$",
+    "age": "5 to 8yrs",
     "desc": "French as a second language will improve reading, speaking, listening, and culture with guided lessons.    "
   },
   {
-    "id": 35,
-    "image": "drawers.jpg",
+    "id": 20,
+    "image": "French_Enrichment_12-Week_camp_for_beginners_Level_2.png",
     "Category": "French",
-    "name": "French Enrichment 12-Week camp for beginners Level",
-    "time": "2-12 Weeks",
-    "cost": "",
+    "name": "French Enrichment 12-Week camp for beginners Level 2",
+    "time": "12 Weeks",
+    "cost": "120$",
+    "age": "8+yrs",
     "desc": "French as a second language will improve reading, speaking, listening, and culture with guided lessons.    "
   },
   {
-    "id": 36,
-    "image": "drawers.jpg",
+    "id": 21,
+    "image": "French_Help__Tutoring__Homework_Help___Private_Lessons.png",
     "Category": "French",
     "name": "French Help! Tutoring, Homework Help & Private Lessons",
     "time": "30 minutes",
-    "cost": "",
+    "cost": "7$",
+    "age": "5 t0 12 yrs",
     "desc": "This is a one-time, private session for students looking to improve French grammar and content knowledge. Ask questions! Get explanations! Get homework help or be introduced to to new teacher-driven topics to build proficiency in French!  "
   },
   {
-    "id": 37,
-    "image": "drawers.jpg",
+    "id": 22,
+    "image": "French_Conversational_Club.png",
     "Category": "French",
-    "name": "Learn to Speak and Write in French",
+    "name": "French Conversational Club",
     "time": "8 Weeks",
-    "cost": "",
+    "cost": "80$",
+    "age": "8+yrs",
     "desc": "Class in French to Learn to Speak, Read, and Write in French"
-  },
-  {
-    "id": 38,
-    "image": "drawers.jpg",
-    "Category": "French",
-    "name": "Conversational French: Learning to Speak French for Beginners",
-    "time": "(ONGOING) - 8 Weeks",
-    "cost": "",
-    "desc": "In this course, students will learn key vocabulary, verbs, and grammar points to be able to have a simple conversation in French."
-  },
-  {
-    "id": 39,
-    "image": "drawers.jpg",
-    "Category": "French",
-    "name": "Pre-K Circle Time in French! Learn French Through Songs and Movement",
-    "time": "8 Weeks",
-    "cost": "",
-    "desc": "In this ongoing course,Learn basic phrases, the alphabet, songs, and more in French! This class is great for young learners to experience French immersion twice a week.Beginners are to join a fun and friendly French circle time. "
   }
 ]

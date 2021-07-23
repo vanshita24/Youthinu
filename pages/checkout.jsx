@@ -105,13 +105,12 @@ export default function checkout() {
                   width={400}
                 />
               </figure>
-
+              <h1 className='ml-10 mt-6 px-0 text-3xl font-headline tracking-tight font-extrabold text-black leading-snug '>
+                Summary
+                <br />
+              </h1>
               <div className='flex flex-col items-center flex-grow'>
-                <div className='flex flex-col justify-start'>
-                  <h1 className='mt-6 text-3xl font-headline tracking-tight font-extrabold text-black leading-snug '>
-                    Summary
-                    <br />
-                  </h1>
+                <div className='flex flex-col '>
                   <div className='flex  mt-4'>
                     <span className='text-black text-xl '>
                       <ul>
