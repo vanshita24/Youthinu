@@ -222,5 +222,35 @@
     "cost": "80$",
     "age": "8+yrs",
     "desc": "Class in French to Learn to Speak, Read, and Write in French"
+  },
+  {
+    "id": 23,
+    "image": "Intro_to_Sanskrit_language.png",
+    "Category": "Sanskrit",
+    "name": "Intro to Sanskrit language",
+    "time": "2 Weeks",
+    "cost": "20$",
+    "age": "5 to 8yrs",
+    "desc": "Learn Sanskrit from Alphabets to become a Pro"
+  },
+  {
+    "id": 24,
+    "image": "Learn_sanksrit_pronunciation.png",
+    "Category": "Sanskrit",
+    "name": "Learn sanksrit pronunciation",
+    "time": "6 Weeks",
+    "cost": "60$",
+    "age": "6 to 12yrs",
+    "desc": "Pronounce Sanskrit sounds flawlessly, regardless of your native language..Pls check the video"
+  },
+  {
+    "id": 25,
+    "image": "Learn_to_read_in_sanskrit_.png",
+    "Category": "Sanskrit",
+    "name": "Learn sanksrit pronunciation",
+    "time": "6 Weeks",
+    "cost": "60$",
+    "age": "6 to 12yrs",
+    "desc": "Lets learn the basics of sanskrit to become a quick reader"
   }
 ]
